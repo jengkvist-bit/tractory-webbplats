@@ -1,7 +1,7 @@
 ---
 titel: "Tjänster"
-sidtitel: "Tjänster inom UX och tjänstedesign — Tractory"
-beskrivning: "Tractory erbjuder tjänstedesign, UX-design och UX research. Med vetenskaplig grund och lång erfarenhet skapas digitala upplevelser som användarna gillar och som gör nytta."
+sidtitel: "Tjänstedesign, UX research och UX-design — Tractory"
+beskrivning: "Tractory erbjuder tjänstedesign, UX research och UX-design i Stockholm, med vetenskaplig grund och lång erfarenhet."
 delningsbild: "/bilder/Tractory-Some-3.webp"
 ---
 

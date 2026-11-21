@@ -1,7 +1,7 @@
 ---
 titel: "Användarintervjuer"
 sidtitel: "Användarintervjuer — Tractory"
-beskrivning: "Vi genomför kvalitativa användarintervjuer med ett mindre urval av användare för att förstå deras behov, mål och frustrationer. Intervjuerna hjälper till att identifiera problem och möjligheter i användarupplevelsen."
+beskrivning: "Kvalitativa intervjuer med ett mindre urval användare, för att förstå deras behov, mål och frustrationer och hitta problem och möjligheter."
 delningsbild: "/bilder/Tractory-Some-14.webp"
 ---
 

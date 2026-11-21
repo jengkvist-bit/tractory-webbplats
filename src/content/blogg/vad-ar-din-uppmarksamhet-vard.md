@@ -1,7 +1,7 @@
 ---
 titel: "Vad är din uppmärksamhet värd?"
 datum: "2018-01-15"
-beskrivning: "Vår uppmärksamhet är en värdefull resurs i den digitala ekonomin. Företag tävlar om att fånga och behålla den genom psykologiska strategier, som översätts till intäkter. Det påverkar vår förmåga att fokusera och fatta beslut, med potentiellt negativa konsekvenser för vår mentala hälsa. Genom ökad medvetenhet kan vi utveckla strategier som skydd mot distraktion och ta kontroll över uppmärksamheten."
+beskrivning: "Företag tävlar om din uppmärksamhet med psykologiska strategier. Om vad det kostar oss, och hur vi kan ta tillbaka kontrollen."
 utdrag: "Genom ökad medvetenhet om hur vår uppmärksamhet utnyttjas kan vi utveckla strategier för att skydda oss mot överdriven distraktion. Det kan vara värdefullt att reflektera över det egna medieanvändandet och ta kontroll över sin uppmärksamhet i en tid där den ständigt eftertraktas."
 listbild: "/bilder/image-asset-7.webp"
 delningsbild: "/bilder/1718872159392.webp"

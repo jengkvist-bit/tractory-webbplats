@@ -1,7 +1,7 @@
 ---
 titel: "9 månader utan smartphone – mina slutsatser"
 datum: "2024-08-20"
-beskrivning: "I en tid där smartphones har blivit en oumbärlig del av vår vardag valde jag att utforska vad det innebär att leva utan en sådan enhet. Under nio månader ställdes jag inför en rad praktiska utmaningar, från betalningar och navigering till att hålla kontakten med omvärlden. Denna upplevelse gav mig dock också möjlighet att reflektera över min relation till teknologin."
+beskrivning: "Jag levde nio månader utan smartphone. Om de praktiska utmaningarna, från betalningar till navigering, och vad det lärde mig om teknik."
 utdrag: "I en tid där smartphones har blivit en oumbärlig del av vår vardag valde jag att utforska vad det innebär att leva utan en sådan enhet. Under nio månader ställdes jag inför en rad praktiska utmaningar, från betalningar och navigering till att hålla kontakten med omvärlden. Denna upplevelse gav mig dock också möjlighet att reflektera över min relation till teknologin."
 listbild: "/bilder/PXL_20230703_122147174.PORTRAIT.webp"
 delningsbild: "/bilder/PXL_20230703_122147174.PORTRAIT-2.webp"

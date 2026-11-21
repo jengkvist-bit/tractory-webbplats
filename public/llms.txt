@@ -1,0 +1,35 @@
+# Tractory
+
+> Tractory AB är en konsultfirma i Stockholm inom tjänstedesign (service design), med UX research och UX-design som komplement. Firman drivs av Jonas Engkvist, som arbetat med tjänstedesign och UX sedan 2007 och har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik. Tractory arbetar med organisationer som vill förbättra sina tjänster utifrån verkliga användarbehov, med fokus på etik och evidens.
+
+Jonas Engkvist är initiativtagare till Digital Design Ethics (https://www.digitaldesignethics.com/), tio principer för etisk digital design. Sajten är på svenska.
+
+## Tjänster
+
+- [Tjänstedesign](https://www.tractory.se/tjanstedesign): huvudtjänsten. Hela kundresan, kontaktytor och interna processer.
+- [UX research](https://www.tractory.se/ux-research): användarstudier som grund för tjänstedesign och beslut.
+- [UX-design](https://www.tractory.se/ux-design): användarupplevelse, flöden och prototyper.
+- [Alla tjänster](https://www.tractory.se/tjanster)
+
+## Avgränsade insatser
+
+- [Service blueprint workshop](https://www.tractory.se/service-blueprint-workshop)
+- [Service design sprint](https://www.tractory.se/service-design-sprint)
+- [Customer journey mapping](https://www.tractory.se/customer-journey-mapping)
+- [Touchpointanalys](https://www.tractory.se/touchpoint-analys)
+- [Prototyp av ny tjänst](https://www.tractory.se/prototyp)
+- [UX-testning av befintlig tjänst](https://www.tractory.se/ux-testning)
+- [Användarintervjuer](https://www.tractory.se/anvandarintervjuer)
+- [Användarundersökning](https://www.tractory.se/anvandarundersokning)
+- [Användningstester](https://www.tractory.se/anvandningstester)
+- [Heuristisk utvärdering](https://www.tractory.se/heuristisk-utvardering)
+- [Personasutveckling](https://www.tractory.se/personas-utveckling)
+
+## Om och kontakt
+
+- [Om Tractory och Jonas Engkvist](https://www.tractory.se/om-oss)
+- [Kontakt](https://www.tractory.se/kontakt): jonas@tractory.se
+
+## Blogg
+
+- [Bloggen](https://www.tractory.se/blogg): texter om tjänstedesign, UX research, digital etik och det digitala samhället.

@@ -1,7 +1,7 @@
 ---
 titel: "UX research"
-sidtitel: "UX research — Tractory"
-beskrivning: "UX research tillhandahåller verkliga insikter om användarnas behov och beteenden, vilket gör att företaget kan designa och utveckla produkter som är optimerade för framgång. Det hjälper företag att minimera riskerna för designmisslyckanden, maximera sin avkastning på produktutvecklingen och skapa nöjdare och mer lojala användare."
+sidtitel: "UX research i Stockholm — Tractory"
+beskrivning: "UX research ger verkliga insikter om användarnas behov och beteenden, och minskar risken att bygga fel. Ett komplement till tjänstedesign."
 delningsbild: "/bilder/Tractory-Some-14.webp"
 ---
 

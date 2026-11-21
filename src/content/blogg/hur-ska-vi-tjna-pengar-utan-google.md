@@ -1,7 +1,7 @@
 ---
 titel: "Hur ska vi tjäna pengar utan Google?"
 datum: "2024-09-25"
-beskrivning: "Utvecklingen av AI-modeller, som ChatGPT, Copilot och Gemini utmanar traditionella former av digital marknadsföring och informationssökning. Google har länge varit den dominerande kanalen för annonsörer som vill nå användare med SEO och betalda annonser. Men i takt med att fler användare vänder sig till AI-drivna system för att få snabb och direkt information står annonsörer inför frågan: Hur når vi våra målgrupper i dessa nya gränssnitt?"
+beskrivning: "När fler söker svar via ChatGPT, Copilot och Gemini utmanas SEO och annonser. Hur når vi målgrupperna i de nya gränssnitten?"
 utdrag: "Utvecklingen av AI-modeller, som ChatGPT, Copilot och Gemini utmanar traditionella former av digital marknadsföring och informationssökning. Google har länge varit den dominerande kanalen för annonsörer som vill nå användare med SEO och betalda annonser. Men i takt med att fler användare vänder sig till AI-drivna system för att få snabb och direkt information står annonsörer inför frågan: Hur når vi våra målgrupper i dessa nya gränssnitt?"
 listbild: "/bilder/firmbee-com-eMemmpUojlw-unsplash.webp"
 delningsbild: "/bilder/firmbee-com-eMemmpUojlw-unsplash-2.webp"

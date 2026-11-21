@@ -10,17 +10,21 @@ const tjanster = [
 ---
 <Bas
   titel="Tjänstedesign & UX-konsult i Stockholm — Tractory"
-  beskrivning="Tractory hjälper organisationer i Stockholm och övriga Sverige med tjänstedesign, UX-design och UX research – etiskt och evidensbaserat."
+  beskrivning="Tractory hjälper organisationer i Stockholm med tjänstedesign och UX research, etiskt och evidensbaserat."
   bild="/bilder/Tractory-Some-2.webp"
   schema={[{
     '@context': 'https://schema.org',
     '@type': 'ProfessionalService',
+    '@id': 'https://www.tractory.se/#foretag',
     name: 'Tractory AB',
     url: 'https://www.tractory.se',
     email: 'jonas@tractory.se',
-    description: 'Tjänstedesign, UX-design och UX research för organisationer i offentlig och privat sektor.',
-    areaServed: 'SE',
-    founder: { '@type': 'Person', name: 'Jonas Engkvist' },
+    logo: 'https://www.tractory.se/bilder/favicon.webp',
+    description: 'Tjänstedesign, med UX research och UX-design som komplement, för organisationer i Stockholm.',
+    address: { '@type': 'PostalAddress', addressLocality: 'Stockholm', addressCountry: 'SE' },
+    areaServed: { '@type': 'City', name: 'Stockholm' },
+    knowsAbout: ['Tjänstedesign', 'Service design', 'UX research', 'UX-design', 'Digital etik'],
+    founder: { '@type': 'Person', '@id': 'https://www.tractory.se/om-oss#jonas', name: 'Jonas Engkvist', url: 'https://www.tractory.se/om-oss' },
   }]}
 >
   <section class="hero">

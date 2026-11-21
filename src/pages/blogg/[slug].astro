@@ -21,8 +21,8 @@ const datum = i.data.datum.toISOString().slice(0, 10);
     '@type': 'BlogPosting',
     headline: i.data.titel,
     datePublished: datum,
-    author: { '@type': 'Person', name: 'Jonas Engkvist' },
-    publisher: { '@type': 'Organization', name: 'Tractory' },
+    author: { '@type': 'Person', '@id': 'https://www.tractory.se/om-oss#jonas', name: 'Jonas Engkvist', url: 'https://www.tractory.se/om-oss' },
+    publisher: { '@type': 'Organization', '@id': 'https://www.tractory.se/#foretag', name: 'Tractory AB', url: 'https://www.tractory.se' },
     image: i.data.delningsbild ? new URL(i.data.delningsbild, Astro.site).href : undefined,
     url: new URL(`/blogg/${i.id}`, Astro.site).href,
   }]}

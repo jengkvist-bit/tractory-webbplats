@@ -1,7 +1,7 @@
 ---
 titel: "Service design sprint"
 sidtitel: "Service design sprint — Tractory"
-beskrivning: "En tidsbegränsad designsprint där vi tillsammans med teamet fokuserar på att lösa ett specifikt problem eller förbättra en del av tjänsten. Detta är en intensiv och fokuserad process som ofta sträcker sig över 3–5 dagar."
+beskrivning: "En intensiv designsprint på 3–5 dagar där vi tillsammans med teamet löser ett specifikt problem eller förbättrar en del av tjänsten."
 delningsbild: "/bilder/Tractory-Some-12.webp"
 ---
 

@@ -1,7 +1,7 @@
 ---
 titel: "UX-design"
 sidtitel: "UX-design — Tractory"
-beskrivning: "UX-design skapar värde genom att förbättra användarupplevelsen, vilket leder till högre konverteringsgrad, nöjdare användare, minskade utvecklingskostnader och starkare kundlojalitet."
+beskrivning: "UX-design som förbättrar användarupplevelsen och ger nöjdare användare, högre konvertering och lägre utvecklingskostnader."
 delningsbild: "/bilder/Tractory-Some-13.webp"
 ---
 

@@ -9,8 +9,43 @@ export async function getStaticPaths() {
 }
 const { sida } = Astro.props;
 const { Content } = await render(sida);
+
+// Strukturerad data (schema.org) för vissa sidor, så att Google och AI-tjänster förstår vem som står bakom och vad sidan erbjuder.
+const sajt = 'https://www.tractory.se';
+const foretag = { '@type': 'ProfessionalService', '@id': `${sajt}/#foretag`, name: 'Tractory AB', url: sajt };
+const tjanst = (namn: string) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  name: namn,
+  serviceType: namn,
+  description: sida.data.beskrivning,
+  url: `${sajt}/${sida.id}`,
+  provider: foretag,
+  areaServed: { '@type': 'City', name: 'Stockholm' },
+});
+const schemaPerSida: Record<string, object[]> = {
+  'tjanstedesign': [tjanst('Tjänstedesign')],
+  'ux-research': [tjanst('UX research')],
+  'ux-design': [tjanst('UX-design')],
+  'om-oss': [{
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    '@id': `${sajt}/om-oss#jonas`,
+    name: 'Jonas Engkvist',
+    url: `${sajt}/om-oss`,
+    jobTitle: 'Tjänstedesigner',
+    worksFor: foretag,
+    knowsAbout: ['Tjänstedesign', 'Service design', 'UX research', 'UX-design', 'Digital etik', 'Kognitionsvetenskap', 'Sociologi'],
+  }, {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Digital Design Ethics',
+    url: 'https://www.digitaldesignethics.com/',
+    founder: { '@id': `${sajt}/om-oss#jonas` },
+  }],
+};
 ---
-<Bas titel={sida.data.sidtitel ?? `${sida.data.titel} — Tractory`} beskrivning={sida.data.beskrivning} bild={sida.data.delningsbild}>
+<Bas titel={sida.data.sidtitel ?? `${sida.data.titel} — Tractory`} beskrivning={sida.data.beskrivning} bild={sida.data.delningsbild} schema={schemaPerSida[sida.id]}>
   <article class="innehall">
     <h1>{sida.data.titel}</h1>
     <div class="text">
