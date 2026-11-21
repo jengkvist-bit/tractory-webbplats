@@ -112,7 +112,6 @@ p { margin: 0 0 1.1em; }
 .sidfot-inre { max-width: var(--bredd); margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 32px; }
 .sidfot p { margin: 0 0 .6em; font-size: 1rem; }
 .sidfot-namn { font-size: 2.4rem !important; font-weight: 500; }
-.sidfot-rubrik { font-size: 1.2rem !important; margin-bottom: 1em !important; }
 
 /* ====== Kontaktsidan ====== */
 .text:has(.kontakt-grid) { max-width: none; }
