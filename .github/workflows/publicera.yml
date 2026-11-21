@@ -27,9 +27,9 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          # Testadress tills domänen flyttas. Då ändras dessa två rader.
-          SITE: https://jengkvist-bit.github.io
-          BASE: /tractory-webbplats
+          # Sajtens riktiga adress
+          SITE: https://www.tractory.se
+          BASE: /
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
