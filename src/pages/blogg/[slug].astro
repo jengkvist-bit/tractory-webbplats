@@ -1,0 +1,23 @@
+---
+// Mall för ett blogginlägg. Texten hämtas från src/content/blogg/<namn>.md
+import Bas from '../../layouts/Bas.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const inlagg = await getCollection('blogg');
+  return inlagg.map((i) => ({ params: { slug: i.id }, props: { i } }));
+}
+const { i } = Astro.props;
+const { Content } = await render(i);
+const datum = i.data.datum.toISOString().slice(0, 10);
+---
+<Bas titel={`${i.data.titel} — Tractory`} beskrivning={i.data.beskrivning} bild={i.data.delningsbild}>
+  <article class="innehall">
+    <div class="text">
+      <p class="meta">Jonas Engkvist · <time datetime={datum}>{datum}</time></p>
+      <h1>{i.data.titel}</h1>
+      <Content />
+      <p><a class="knapp kontur" href="/blogg">← Alla inlägg</a></p>
+    </div>
+  </article>
+</Bas>

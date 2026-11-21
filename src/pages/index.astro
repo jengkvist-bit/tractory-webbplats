@@ -1,0 +1,40 @@
+---
+// Startsidan
+import Bas from '../layouts/Bas.astro';
+const tjanster = [
+  { titel: 'Tjänstedesign', text: 'Att skapa och optimera tjänster genom att noggrant analysera och förbättra kundens hela upplevelse från första kontakt till slutlig användning.', href: '/tjanstedesign', lank: 'Mer om tjänstedesign' },
+  { titel: 'UX design', text: 'Att skapa intuitiva och engagerande digitala upplevelser genom att fokusera på användarens behov och beteenden.', href: '/ux-design', lank: 'Mer om UX design' },
+  { titel: 'UX research', text: 'Att systematiskt samla in och analysera användardata för att förstå användarnas behov, beteenden och problem.', href: '/ux-research', lank: 'Mer om UX research' },
+];
+---
+<Bas
+  titel="Tjänstedesign & UX-konsult i Stockholm — Tractory"
+  beskrivning="Tractory hjälper organisationer i Stockholm och övriga Sverige med tjänstedesign, UX-design och UX research – etiskt och evidensbaserat."
+  bild="/bilder/Tractory-Some-2.webp"
+>
+  <section class="hero">
+    <h1>Tjänstedesign och UX för organisationer som misstänker att de kan göra bättre ifrån sig digitalt.</h1>
+    <p>Det kan de nästan alltid. Tractory hjälper organisationer i offentlig och privat sektor att förstå varför, och vad de ska göra åt det.</p>
+    <a class="knapp" href="/kontakt">Boka ett samtal</a>
+  </section>
+
+  <section class="ljus">
+    <h2>Design, innovation, etik</h2>
+    <p>Tractory levererar tjänstedesign, UX-design och digital strategi, med fokus på att skapa innovativa, etiskt ansvarsfulla och hållbara lösningar.</p>
+    <a class="knapp" href="/om-oss">Om oss</a>
+  </section>
+
+  <section class="innehall">
+    <h2>Tjänster</h2>
+    <div class="kort-rad">
+      {tjanster.map((t) => (
+        <div class="kort">
+          <h3>{t.titel}</h3>
+          <p>{t.text}</p>
+          <a class="knapp kontur" href={t.href}>{t.lank}</a>
+        </div>
+      ))}
+    </div>
+    <a class="knapp" href="/tjanster">Alla tjänster</a>
+  </section>
+</Bas>
