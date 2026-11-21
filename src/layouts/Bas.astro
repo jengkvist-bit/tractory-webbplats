@@ -14,6 +14,11 @@ const meny = [
   { text: 'Kontakt', href: '/kontakt' },
   { text: 'Blogg', href: '/blogg' },
 ];
+// Webbanalys med GoatCounter: räknar besök utan cookies, så ingen cookie-banner behövs.
+// Byt namnet om du valde ett annat när du skapade kontot på goatcounter.com.
+const goatcounter = 'tractory';
+// Räkna bara besök på den riktiga sajten, inte på testadressen.
+const räknaBesök = Astro.site?.hostname === 'www.tractory.se';
 const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + '/');
 ---
 <!doctype html>
@@ -28,6 +33,9 @@ const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + 
   <meta property="og:image" content={new URL(base + bild, Astro.site)} />
   <link rel="icon" href={base + '/bilder/favicon.webp'} />
   <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  {räknaBesök && (
+    <script is:inline async data-goatcounter={`https://${goatcounter}.goatcounter.com/count`} src="https://gc.zgo.at/count.js"></script>
+  )}
 </head>
 <body>
   <a class="hoppa" href="#innehall">Gå vidare till innehåll</a>
