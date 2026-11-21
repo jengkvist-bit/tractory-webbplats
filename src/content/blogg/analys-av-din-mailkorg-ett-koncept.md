@@ -3,11 +3,11 @@ titel: "Analys av din mailkorg – ett koncept"
 datum: "2018-11-26"
 beskrivning: "Vad skulle hända om du analyserade e-post som webbplatsdata? Ett koncept för att förstå organisationers sociala liv genom mejlkorgen."
 utdrag: "På jobbet skickar vi många e-postmeddelanden. Trots att det finns många andra verktyg för digital kommunikation, förblir e-postinkorgen den centrala punkten för digital kommunikation. Vad skulle hända om du analyserade e-postdata på samma sätt som du gör med webbplatsanalys? Vår tes är att människors e-postbeteenden är en bra källa för att förstå organisationers sociala liv. Dessa insikter kan leda till mer effektiv e-posthantering och hälsosammare arbetsmiljöer."
-listbild: "/bilder/image-asset-4.webp"
+listbild: "../../assets/bilder/image-asset-4.webp"
 delningsbild: "/bilder/1718880201075.webp"
 ---
 
-![](/bilder/image-asset-11.webp)
+![Sex svarta brevlådor på en orange vägg, två av dem fulla av reklam](../../assets/bilder/image-asset-11.webp)
 
 I min artikel "Analyzing Email Behaviors" utforskar jag hur människor interagerar med e-post och vad dessa beteenden avslöjar om deras vanor och preferenser. Genom att analysera öppningsfrekvenser, klickbeteenden och svarsmönster kan vi få insikter i användarnas engagemang och effektiviteten av e-postkampanjer. Jag diskuterar också hur man kan använda denna information för att förbättra e-postmarknadsföring och skapa mer personliga och relevanta meddelanden som resonerar bättre med mottagarna.
 

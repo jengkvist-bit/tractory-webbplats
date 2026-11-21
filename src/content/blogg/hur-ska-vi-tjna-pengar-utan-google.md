@@ -3,11 +3,11 @@ titel: "Hur ska vi tjäna pengar utan Google?"
 datum: "2024-09-25"
 beskrivning: "När fler söker svar via ChatGPT, Copilot och Gemini utmanas SEO och annonser. Hur når vi målgrupperna i de nya gränssnitten?"
 utdrag: "Utvecklingen av AI-modeller, som ChatGPT, Copilot och Gemini utmanar traditionella former av digital marknadsföring och informationssökning. Google har länge varit den dominerande kanalen för annonsörer som vill nå användare med SEO och betalda annonser. Men i takt med att fler användare vänder sig till AI-drivna system för att få snabb och direkt information står annonsörer inför frågan: Hur når vi våra målgrupper i dessa nya gränssnitt?"
-listbild: "/bilder/firmbee-com-eMemmpUojlw-unsplash.webp"
+listbild: "../../assets/bilder/firmbee-com-eMemmpUojlw-unsplash.webp"
 delningsbild: "/bilder/firmbee-com-eMemmpUojlw-unsplash-2.webp"
 ---
 
-![](/bilder/firmbee-com-eMemmpUojlw-unsplash-3.webp)
+![En person sitter vid ett träbord med en kaffekopp och söker på Google i en bärbar dator](../../assets/bilder/firmbee-com-eMemmpUojlw-unsplash-3.webp)
 
 _Den typiska stockbilden på en person som googlar. Foto: [Firmbee.com](https://firmbee.com) från [Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 
@@ -27,13 +27,13 @@ För att överleva i ett AI-baserat ekosystem behöver företag sannolikt anpass
 
 Auktoritet och trovärdighet kommer att vara avgörande. En AI-modell behöver prioritera innehåll som kommer från källor med hög tillförlitlighet, vilket innebär att företag måste etablera sig som ledande aktörer inom sina områden för att AI-modellerna ska hämta information från dem. Innehåll som är tydligt, korrekt och som verifierats av externa auktoriteter kommer att ha större chans att bli integrerat i AI-svaren.
 
-![](/bilder/ChatGPT-grnssnitt.webp)
+![ChatGPT svarar på frågan om näringsinnehåll i Coca-Cola med en lista över energi, fett, kolhydrater, protein och salt](../../assets/bilder/ChatGPT-grnssnitt.webp)
 
 _Skärmavbild ChatGPT 4.0_
 
 ChatGPT ger ett trovärdigt och objektivt intryck i både gränssnittet och svaret på frågan om näringsinnehåll i Coca-Cola.
 
-![](/bilder/Skrmavbild-Google-Gemini.webp)
+![Google Gemini svarar på frågan om näringsinnehåll i Coca-Cola med en lång översikt och råd om sockerintag](../../assets/bilder/Skrmavbild-Google-Gemini.webp)
 
 _Skärmavbild Google Gemini_
 
@@ -53,7 +53,7 @@ Googles sökmotor har utvecklats från att vara ett neutralt verktyg att söka i
 
 Microsofts AI, Copilot, har i viss mån misslyckats med att separera annonsering och betalda placeringar från själva kärndialogen mellan användaren och språkmodellen. Min tolkning är att designbeslut har tagits av andra affärsmässiga anledningar än att erbjuda den bästa användarupplevelsen. Resultatet blir en mindre personlig och förtroendebyggande interaktion mellan användare och gränssnitt. Möjligtvis finns det en del användare som istället uppskattar den här formen av transparens, där svarets referenser är mer explicita än i exempelvis ChatGPT och Googles Gemini.
 
-![](/bilder/Skrmavbild-Microsoft-Copilot.webp)
+![Microsoft Copilot svarar på frågan om näringsinnehåll i Coca-Cola, med länkar och en annons för att köpa Coca-Cola](../../assets/bilder/Skrmavbild-Microsoft-Copilot.webp)
 
 _Skärmavbild Microsoft Copilot för Bing_
 

@@ -26,7 +26,7 @@ delningsbild: "/bilder/Tractory-Some-4.webp"
 </div>
 <div>
 
-<img src="/bilder/20170831_portratt_ONE_DAY16827.webp" alt="Jonas Engkvist" width="640" height="800">
+![Jonas Engkvist i svart skjorta tittar ner i en fotostudio](../../assets/bilder/20170831_portratt_ONE_DAY16827.webp)
 <p class="bildtext">Jonas Engkvist, tjänstedesigner.<br>Svarar inom en arbetsdag.</p>
 
 </div>

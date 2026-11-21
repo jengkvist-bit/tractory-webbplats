@@ -3,7 +3,7 @@ titel: "5 tips för bättre UX research"
 datum: "2021-08-11"
 beskrivning: "Det finns ingen perfekt forskningsmetod. Här är fem saker jag försöker tänka på när jag gör UX research."
 utdrag: "I takt med att UX-research accelererar kan det vara nyttigt att ta ett steg tillbaka och reflektera över de metoder vi använder. Det kommer aldrig att finnas en perfekt enighet kring forskningsmetodik. Vissa är starka anhängare av siffror och data, medan andra hyllar antropologiska insikter. Att hålla den diskussionen vid liv är förmodligen hälsosamt. Jag har arbetat med UX i cirka 15 år, och här är fem saker jag försöker tänka på när jag utför UX-forskning."
-listbild: "/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash.webp"
+listbild: "../../assets/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash.webp"
 delningsbild: "/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash-2.webp"
 ---
 
@@ -15,7 +15,7 @@ Jag har arbetat med UX i cirka 15 år, och här är fem saker jag försöker tä
 
 ## #1 Gör det ofta
 
-![](/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash-3.webp)
+![Ett litet barn står längst ner vid en lång och brant stentrappa](../../assets/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash-3.webp)
 
 Börja tidigt, och gör det ofta. UX-research handlar inte om att hitta alla svar på en gång. Det är ett kontinuerligt arbete som lägger till små bitar till pusslet varje gång. Förvänta dig inga stora uppenbarelser, förvänta dig att lära dig lite mer varje gång. Och förvänta dig att aldrig bli färdig.
 
@@ -23,7 +23,7 @@ När UX-research blir en naturlig del av organisationens vardagliga arbete, bör
 
 ## #2 Blanda dina metoder
 
-![](/bilder/kobby-mendez-xBFTjrMIC0c-unsplash.webp)
+![Tre färgglada drinkar med frukt och sugrör på en bardisk](../../assets/bilder/kobby-mendez-xBFTjrMIC0c-unsplash.webp)
 
 Jag tror att kvantitativa metoder generellt sett är bra för att ta reda på vad, när och hur mycket. Kvalitativa metoder är generellt sett bra för att ta reda på varför och hur. Varje forskningsmetod har sina fördelar, och att blanda dem ger en bredare förståelse för vad som pågår.
 
@@ -51,7 +51,7 @@ Sammanfattningsvis finns det för- och nackdelar med varje metod. Genom att anv�
 
 ## #3 Omfamna röran
 
-![](/bilder/jimmy-ofisia-f7xiGC81KTE-unsplash.webp)
+![Husfasad med trassliga elkablar, luftkonditioneringsaggregat och en parkeringsförbudsskylt](../../assets/bilder/jimmy-ofisia-f7xiGC81KTE-unsplash.webp)
 
 Kliniska studier och experiment är utformade för att isolera så mycket som möjligt från oreda i verkliga miljöer. Det är bra om du vill särskilja en specifik variabel och ta reda på i vilken utsträckning den påverkar fenomenet du är intresserad av. Inom beteendevetenskaper är experiment ganska vanliga inom psykologiska och kognitiva discipliner. Vilket är helt logiskt, om du är intresserad av generaliserbara slutsatser om sinnet. Men i UX-research behöver du vanligtvis inte kunna dra slutsatser om andra situationer än de du specifikt tittar på.
 
@@ -61,7 +61,7 @@ Ge dig ut i verkligheten, utforska och lär dig om riktiga användare i riktiga 
 
 ## #4 Inkludera alla
 
-![](/bilder/flavio-gasperini-C8rxQzFUTQU-unsplash.webp)
+![En lång rad måsar sitter på en ledning mot blå himmel](../../assets/bilder/flavio-gasperini-C8rxQzFUTQU-unsplash.webp)
 
 Värdet av UX-research handlar egentligen om att kommunicera fynden till organisationen. När hela organisationen börjar bygga empati, förståelse och nyfikenhet kring sina användare — då händer magin.
 
@@ -73,7 +73,7 @@ Ta inte onödigt starkt ägarskap över området UX-research. Det kan vara frest
 
 ## #5 Dra inte för stora slutsatser
 
-![](/bilder/jeffrey-dungen-9Ng0FrXhP84-unsplash.webp)
+![En ensam kamel med röd sadel står i en sandöken med en stad i bakgrunden](../../assets/bilder/jeffrey-dungen-9Ng0FrXhP84-unsplash.webp)
 
 Varje forskningsinitiativ lägger bara till en bit till pusslet. Låtsas inte att den senaste gav alla svaren. Metodologisk perfektion är sällsynt, och att påstå generaliserbarhet till alla dina användare är riskabelt.
 

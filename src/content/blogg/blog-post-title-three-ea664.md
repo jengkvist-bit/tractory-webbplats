@@ -3,11 +3,11 @@ titel: "Den gyllene regeln för UX"
 datum: "2018-08-13"
 beskrivning: "Varje kultur har sina sociala koder för hur vi interagerar. Borde inte de mest robusta av dem gälla även i digitala tjänster?"
 utdrag: "Så länge det har funnits samhällen har vi försökt hitta smidigare sätt att interagera. Varje samhälle och kultur har sitt unika recept för social interaktion, men mycket förblir detsamma. Visst borde några av de mer robusta sociala koderna även kunna tillämpas på den digitala kulturen?"
-listbild: "/bilder/image-asset-6.webp"
+listbild: "../../assets/bilder/image-asset-6.webp"
 delningsbild: "/bilder/1718882201644.webp"
 ---
 
-![](/bilder/image-asset-12.webp)
+![Hyllor fulla med gamla trätyper för boktryck, bokstäver och siffror huller om buller](../../assets/bilder/image-asset-12.webp)
 
 I min artikel "The Golden Rule of UX" förklarar jag hur viktigt det är att alltid sätta användaren i centrum för designprocessen. Genom att behandla användarna som vi själva skulle vilja bli behandlade, skapar vi användarvänliga, intuitiva och tillfredsställande upplevelser. Denna princip, som är en hörnsten inom UX-design, handlar om empati och att verkligen förstå användarens behov och förväntningar.
 

@@ -3,11 +3,11 @@ titel: "Är din data värd något? Om vikten av metodologisk stringens i UX rese
 datum: "2024-09-03"
 beskrivning: "Kvaliteten på UX research varierar stort. Om varför metodologisk stringens avgör om din data är värd något."
 utdrag: "Allt eftersom UX-research seglat upp som en egen disciplin upplever jag också en ökad spridning i kvaliteten på de studier som genomförs. Många gör det väldigt bra, många gör det mycket bättre än jag. Men det händer också att jag stöter på studier och underlag som får mig att häpna. Ibland är bortfallet bland svarande så högt att chansen att dra en korrekt slutsats är högre om du singlar slant. Och ibland dras statistiska slutsatser om hundratusentals användare utifrån kvantitativ data baserat på ett tiotal respondenter."
-listbild: "/bilder/unsplash-image-_E1PQXKUkMw.webp"
+listbild: "../../assets/bilder/unsplash-image-_E1PQXKUkMw.webp"
 delningsbild: "/bilder/unsplash-image-_E1PQXKUkMw-2.webp"
 ---
 
-![](/bilder/unsplash-image-_E1PQXKUkMw-3.webp)
+![Närbild på hundratals pilar med vita fjädrar](../../assets/bilder/unsplash-image-_E1PQXKUkMw-3.webp)
 
 ## För det mesta bra – ibland uselt
 
