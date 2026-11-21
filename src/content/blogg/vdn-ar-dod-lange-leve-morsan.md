@@ -1,5 +1,5 @@
 ---
-titel: "VD:n är död - länge leve morsan!"
+titel: "VD:n är död – länge leve morsan!"
 datum: "2023-03-08"
 beskrivning: "Vi använder fortfarande ord som \"Chief\", \"Executive\", \"Officer\" och \"Head\" för att definiera modernt ledarskap. Varför håller vi fast vid termer som kommer från militära organisationer och diktatoriska traditioner? Och vad skulle hända om vi började definiera ledarskapsroller på ett annat sätt? Vad skulle hända om ledande positioner inom ett företag var \"morsor\" istället för en massa hövdingar?"
 utdrag: "Vi använder fortfarande ord som \"Chief\", \"Executive\", \"Officer\" och \"Head\" för att definiera modernt ledarskap. Varför håller vi fast vid termer som kommer från militära organisationer och diktatoriska traditioner? Och vad skulle hända om vi började definiera ledarskapsroller på ett annat sätt? Vad skulle hända om ledande positioner inom ett företag var \"morsor\" istället för en massa hövdingar?"
@@ -9,7 +9,7 @@ delningsbild: "/bilder/1718885228212.webp"
 
 ![](/bilder/image-asset-8.webp)
 
-I min artikel "The CEO is Dead, Long Live the Company Mother" diskuterar jag konceptet att ersätta traditionella VD-roller med en mer vårdande och stödjande ledarskapsstil, som en "mosa". Jag argumenterar för att en ledare som fokuserar på att stödja och utveckla sina medarbetare kan skapa en mer produktiv och innovativ arbetsmiljö. Jag betonar vikten av empati och emotionell intelligens i ledarskap för att bygga starkare och mer sammanhållna team.
+I min artikel "The CEO is Dead, Long Live the Company Mother" diskuterar jag konceptet att ersätta traditionella VD-roller med en mer vårdande och stödjande ledarskapsstil, som en "morsa". Jag argumenterar för att en ledare som fokuserar på att stödja och utveckla sina medarbetare kan skapa en mer produktiv och innovativ arbetsmiljö. Jag betonar vikten av empati och emotionell intelligens i ledarskap för att bygga starkare och mer sammanhållna team.
 
 Empatiskt ledarskap handlar om att förstå och värdera varje medarbetares unika bidrag och behov. Jag beskriver hur en "morsa" kan främja en kultur av öppenhet och tillit, vilket leder till högre medarbetartillfredsställelse och lägre personalomsättning. Genom att prioritera medarbetarnas välbefinnande och personliga utveckling kan företag uppnå långsiktig framgång och hållbarhet.
 

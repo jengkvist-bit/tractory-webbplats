@@ -1,5 +1,5 @@
 ---
-titel: "9 månader utan smartphone - mina slutsatser"
+titel: "9 månader utan smartphone – mina slutsatser"
 datum: "2024-08-20"
 beskrivning: "I en tid där smartphones har blivit en oumbärlig del av vår vardag valde jag att utforska vad det innebär att leva utan en sådan enhet. Under nio månader ställdes jag inför en rad praktiska utmaningar, från betalningar och navigering till att hålla kontakten med omvärlden. Denna upplevelse gav mig dock också möjlighet att reflektera över min relation till teknologin."
 utdrag: "I en tid där smartphones har blivit en oumbärlig del av vår vardag valde jag att utforska vad det innebär att leva utan en sådan enhet. Under nio månader ställdes jag inför en rad praktiska utmaningar, från betalningar och navigering till att hålla kontakten med omvärlden. Denna upplevelse gav mig dock också möjlighet att reflektera över min relation till teknologin."
@@ -21,13 +21,13 @@ Men det klingade faktiskt av efter några veckor, som med de flesta artificiella
 
 ## Tillfällen då jag gett upp
 
-För att inte inleda läsaren i en falsk förespegling vill jag redan nu erkänna att jag behövt fuska ibland. Efter bara några veckor insåg jag att det är praktiskt omöjligt vara helt utan en smartphone. Ett data-sim införskaffades till min smartphone för akuta behov. Den har behövt användas till följande:
+För att inte ge läsaren en falsk bild vill jag redan nu erkänna att jag behövt fuska ibland. Efter bara några veckor insåg jag att det är praktiskt omöjligt att vara helt utan en smartphone. Ett datasim införskaffades till min smartphone för akuta behov. Den har behövt användas till följande:
 
 - Betalning
 - Identifiering
 - Navigering
 
-Lite av ett platt fall för ett ambitiöst experiment, kan tyckas. Men användandet av min smartphone har trots allt reducerats med sisådär 90-95%, och jag har upplevt ganska stora förändringar i vardagen.
+Lite av ett platt fall för ett ambitiöst experiment, kan tyckas. Men användandet av min smartphone har trots allt reducerats med sisådär 90–95 procent, och jag har upplevt ganska stora förändringar i vardagen.
 
 ## Saker som varit mycket krångligare
 
@@ -39,23 +39,23 @@ Att betala utan en smartphone visade sig vara lite av ett helvete faktiskt. Låt
 
 **Hur parkerar man?**
 
-Problem uppstod redan första dagen, när jag skjutsade barnen till badhuset. Hur betalar man parkering utan en smartphone och ett (orimligt) antal parkeringsappar? Möjligtvis fanns det en betalautomat någonstans, men inte inom synhåll - och definitivt inte möjlig att hitta inom rimlig tidsrymd med ett gäng badsugna ungar i baksätet. Jag lyckades faktiskt inte utan fick chansa en fulparkering den gången.
+Problem uppstod redan första dagen, när jag skjutsade barnen till badhuset. Hur betalar man parkering utan en smartphone och ett (orimligt) antal parkeringsappar? Möjligtvis fanns det en betalautomat någonstans, men inte inom synhåll – och definitivt inte möjlig att hitta inom rimlig tidsrymd med ett gäng badsugna ungar i baksätet. Jag lyckades faktiskt inte utan fick chansa en fulparkering den gången.
 
 **Hur ger man pengar till någon?**
 
 Swish är en fantastisk tjänst som förenklar mycket i vardagen. Framförallt för någon som mig som har en närmast panisk aversion mot att stå i skuld.
 
-För att inte tala om alla stackars barn som knackar på för att sälja bambustrumpor, handstöpta ljus, salamikorvar, parmesanostar och gud vet vad. Inte kan man väl neka en stackars skolklass eller ett litet fotbollslag att övernatta i en svettig gympasal i Västerås, eller vad de nu ska göra med de insamlade slantarna. Detta har varit ett av fallen då jag faktiskt tvingats falla min smartphone till föga.
+För att inte tala om alla stackars barn som knackar på för att sälja bambustrumpor, handstöpta ljus, salamikorvar, parmesanostar och gud vet vad. Inte kan man väl neka en stackars skolklass eller ett litet fotbollslag att övernatta i en svettig gympasal i Västerås, eller vad de nu ska göra med de insamlade slantarna. Detta har varit ett av fallen då jag faktiskt tvingats falla till föga och använda min smartphone.
 
 **Hur vet jag att jag har pengar?**
 
-Jag har för vana att ha en relativt begränsad mängd pengar på det konto som är kopplat till mitt betalkort. Och utan en smartphone kunde jag inte kolla saldot lika smidigt som tidigare. Vad jag vet finns möjligheten fortfarande att ringa sin bank och få saldot uppläst, så det går nog att kringgå.  Men jag har helt enkelt hållit en överslagsräkning på månadens utlägg i minnet. Förmodligen har det gjort mig lite mer snål.
+Jag har för vana att ha en relativt begränsad mängd pengar på det konto som är kopplat till mitt betalkort. Och utan en smartphone kunde jag inte kolla saldot lika smidigt som tidigare. Vad jag vet finns möjligheten fortfarande att ringa sin bank och få saldot uppläst, så det går nog att kringgå. Men jag har helt enkelt hållit en överslagsräkning på månadens utlägg i minnet. Förmodligen har det gjort mig lite mer snål.
 
 Då och då har oron att inte vara kontant ändå krupit på i matbutiken, på restauranger och vid tankstationen. Och det har varit en ganska obehaglig upplevelse. Den sociala skammen i att offentligt inte ha pengar på kortet är givetvis förkrossande.
 
 ### Identifiering
 
-Mobilt Bank-ID har i ärlighetens namn varit väldigt svårt att klara vardagen utan. Andra tjänster för betalningar, försäkringar, skatter, vårdkontakter och kollektiva resor  förutsätter ju också Bank-ID för att fungera någorlunda smidigt. Stockholms skolplattform, som omöjligen kan besökas utan någon form av digital ID, har visserligen varit en befrielse att besöka så sällan som möjligt.
+Mobilt Bank-ID har i ärlighetens namn varit väldigt svårt att klara vardagen utan. Andra tjänster för betalningar, försäkringar, skatter, vårdkontakter och kollektiva resor förutsätter ju också Bank-ID för att fungera någorlunda smidigt. Stockholms skolplattform, som omöjligen kan besökas utan någon form av digitalt id, har visserligen varit en befrielse att besöka så sällan som möjligt.
 
 Här hade jag valet att beställa en speciell kortläsare för Bank-ID, eller att helt enkelt fortsätta använda mobilt Bank-ID när nöden krävde. Jag valde det senare, av ren lathet.
 
@@ -63,7 +63,7 @@ Här hade jag valet att beställa en speciell kortläsare för Bank-ID, eller at
 
 Jag har ett närmast osannolikt dåligt lokalsinne. Så till den milda grad att jag kan köra eller promenera samma sträcka 10 gånger utan att hitta samma väg den 11:e gången. Min bil har dessutom ingen egen gps, utan där förväntas jag plugga in en smartphone för att åtnjuta frukterna av denna fantastiska uppfinning.
 
-Min sambo har å andra sidan ett osannolikt gott lokalsinne, varför jag oftast förlitat mig till den navigeringshjälpen. Förvisso med baksidan att hon har en närmast osannolik oförmåga att skilja på höger och vänster. En oväntad bieffekt har faktiskt varit att barnen numer är mer engagerade när jag skjutsar dem och (med viss anad oro) hjälper till att hålla koll på vart vi är och vart vi ska.
+Min sambo har å andra sidan ett osannolikt gott lokalsinne, varför jag oftast förlitat mig på den navigeringshjälpen. Förvisso med baksidan att hon har en närmast osannolik oförmåga att skilja på höger och vänster. En oväntad bieffekt har faktiskt varit att barnen numer är mer engagerade när jag skjutsar dem och (med viss anad oro) hjälper till att hålla koll på var vi är och vart vi ska.
 
 När jag rest längre sträckor själv har jag faktiskt fuskat och pluggat in gps:en. Annars hade jag förmodligen fortfarande varit på resande fot och inte kunnat skriva den här texten.
 
@@ -77,11 +77,11 @@ Digital kommunikation utan en smartphone har verkligen inneburit en social från
 
 Den Nokia jag nu använder har förvisso en viss smartness genom sin prediktiva textinmatning, T9. Men upplevelsen är långt ifrån angenäm. Trögheten i att få till ett begripligt meddelande gjorde mig betydligt mer kortfattad (och felstavad). Andra spännande effekter:
 
-- emojis kan inte tolkas, de visas bara som [] [] []. Men oftast går det förvånansvärt bra att gissa vad andra försöker uttrycka  utifrån kontexten av den dialog som sker.
-- MMS och bilder fyller minnet snabbt, eftersom de lagras på sim-kortet. 4-5 bilder, sen är det dags att börja radera meddelanden för att få plats med nya.
-- Länkar i sms är inte ens lönt att försöka öppna. Den lilla opera-mini-webbläsaren visar inget av relevans i 99 fall av 100.
+- emojis kan inte tolkas, de visas bara som [] [] []. Men oftast går det förvånansvärt bra att gissa vad andra försöker uttrycka utifrån kontexten av den dialog som sker.
+- MMS och bilder fyller minnet snabbt, eftersom de lagras på simkortet. 4–5 bilder, sen är det dags att börja radera meddelanden för att få plats med nya.
+- Länkar i sms är inte ens lönt att försöka öppna. Den lilla Opera Mini-webbläsaren visar inget av relevans i 99 fall av 100.
 
-**Meddelande-appar**
+**Meddelandeappar**
 
 Privat sker såklart mycket av kommunikationen med olika grupperingar via appar som WhatsApp och Signal. Som de flesta andra föräldrar är jag inbjuden till chatgrupper för fotbollsträningar, klassresor, salamiförsäljningar och fan vet vad. Utöver det finns trådar för olika vänskapskluster och släktgrupperingar. En del intressanta saker har jag säkert missat, men det verkar som att essensen ändå når fram till slut via fysiska möten eller telefonsamtal.
 
@@ -105,13 +105,13 @@ Några exempel:
 
 **Tidsvinster**
 
-Uppskattningsvis har jag frigjort 1-2 timmar per dag genom att inte ha min smartphone tillgänglig. Det är tid som jag kunnat göra vad jag vill med. Därmed inte sagt att jag alltid utnyttjat den tiden till att utföra något fantastiskt produktivt. Men tidsvinsten har nog skänkt mig en lite mer rofylld vardag.
+Uppskattningsvis har jag frigjort 1–2 timmar per dag genom att inte ha min smartphone tillgänglig. Det är tid som jag kunnat göra vad jag vill med. Därmed inte sagt att jag alltid utnyttjat den tiden till att utföra något fantastiskt produktivt. Men tidsvinsten har nog skänkt mig en lite mer rofylld vardag.
 
 Min TV-tid har sannolikt ökat en del, men marginellt. Jag prenumererar inte på några streamingkanaler, eftersom innehållet där helt enkelt inte roar mig särskilt mycket. De kanaler jag har tillgång till är SVT1, SVT2, Kunskapskanalen och TV4. Då blir “binge-watching” snabbt outhärdligt, och den röda knappen på fjärrkontrollen blir ganska snart frestande.
 
 **Väntande**
 
-Jag har väntat mer. Alla de där små situationerna i vardagen när jag väntat på att någon eller något, eller när jag rest kollektivt. De stunderna har jag tidigare plockat fram mobilen för att få tiden att gå lite fortare. Det gick  inte att fly dessa situationer lika lätt.
+Jag har väntat mer. Alla de där små situationerna i vardagen när jag väntat på någon eller något, eller när jag rest kollektivt. De stunderna har jag tidigare plockat fram mobilen för att få tiden att gå lite fortare. Det gick inte att fly dessa situationer lika lätt.
 
 Till en början var det både irriterande och frustrerande. Men allt mer började det kännas som något värdefullt. 10 minuter här och 5 minuter där blir till slut ganska många timmar på ett år med frihet att tänka på vad du vill eller observera vad som händer och sker runt omkring dig.
 
@@ -121,11 +121,11 @@ Tidigare hände det ofta att jag inte svarade på telefonsamtal för att jag int
 
 **Laddning**
 
-Min Noka är fantastisk! Jag behövde bara ladda den 2-3 gånger per månad för att vara ständigt tillgänglig. Från att dagligen letat och svurit över den förlagda laddaren fann jag nu en ro och ett lugn djupt in i själen. Det känns nästan lite förnedrande att jag ställt upp på det eviga laddandet under alla dessa år med smartphone.
+Min Nokia är fantastisk! Jag behövde bara ladda den 2–3 gånger per månad för att vara ständigt tillgänglig. Från att dagligen ha letat och svurit över den förlagda laddaren fann jag nu en ro och ett lugn djupt in i själen. Det känns nästan lite förnedrande att jag ställt upp på det eviga laddandet under alla dessa år med smartphone.
 
 ### Intressantare människor
 
-Saker andra berättade för mig blev mer intressanta, kanske för att de oftare hade något att berätta som jag inte redan kände till. Eftersom jag inte redan hade läst de samma löpsedlar blev jag mer uppmärksam på vad personen framför mig och vad den hade att berätta.
+Saker andra berättade för mig blev mer intressanta, kanske för att de oftare hade något att berätta som jag inte redan kände till. Eftersom jag inte redan hade läst samma löpsedlar blev jag mer uppmärksam på personen framför mig och vad den hade att berätta.
 
 Och eftersom jag inte heller tagit del av tillhörande debattartiklar, krönikor och kommentarstrådar kände jag oftast inte heller till den kollektivt redan överenskomna ståndpunkten till nyheten. Jag vill tro att det bidrog till mindre socialt torrsim, och fler meningsfulla samtal.
 
@@ -133,7 +133,7 @@ Och eftersom jag inte heller tagit del av tillhörande debattartiklar, krönikor
 
 Visserligen tittade jag på Aktuellt en del kvällar. Så jag har inte varit helt frånkopplad från samhällsagendan. Men ändå, en viss distans till det hela uppstod nog. En sund distans, tror jag.
 
-Då och då har jag befunnit mig i sammanhang där jag är den enda i rummet - eftersom alla andra sitter med näbben i sina telefoner. En situation som givetvis skapar en känsla av utanförskap och visst obehag. Men det har också gjort mig mer uppmärksam på fenomenet, och på att jag bör undvika dessa situationer.
+Då och då har jag befunnit mig i sammanhang där jag är den enda i rummet – eftersom alla andra sitter med näbben i sina telefoner. En situation som givetvis skapar en känsla av utanförskap och visst obehag. Men det har också gjort mig mer uppmärksam på fenomenet, och på att jag bör undvika dessa situationer.
 
 ### Intressantare tankar
 
@@ -151,7 +151,7 @@ Att följa sina egna associationsbanor och tankegångar hela vägen tror jag är
 
 Jag började finna en förnöjsamhet i att inte kunna ta reda på allt. Tidigare googlade jag ofta impulsivt efter saker som poppade upp i mitt medvetande. Det kunde vara helt obetydliga saker som “hur långt kryper en snigel på en minut?” eller “vad är egentligen definitionen av ordet progressiv?”.
 
-Eftersom jag inte längre hade samma möjlighet  att snabbt söka svar på allting behövde jag först ställa mig frågan “Är det värt att ta reda på, vad vinner jag på att veta det?”. I de fall jag bestämde mig för att det var värt att söka svaret, var det första steget oftast att ställa frågan till en annan människa. I nio fall av tio började den andra människan googla, men då och då uppstod faktiskt meningsfulla samtal om saken.
+Eftersom jag inte längre hade samma möjlighet att snabbt söka svar på allting behövde jag först ställa mig frågan “Är det värt att ta reda på, vad vinner jag på att veta det?”. I de fall jag bestämde mig för att det var värt att söka svaret, var det första steget oftast att ställa frågan till en annan människa. I nio fall av tio började den andra människan googla, men då och då uppstod faktiskt meningsfulla samtal om saken.
 
 **Ökad rastlöshet**
 

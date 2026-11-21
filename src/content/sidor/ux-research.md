@@ -7,7 +7,7 @@ delningsbild: "/bilder/Tractory-Some-14.webp"
 
 UX research tillhandahåller verkliga insikter om användarnas behov och beteenden, vilket gör att företaget kan designa och utveckla produkter som är optimerade för framgång. Det hjälper företag att minimera riskerna för designmisslyckanden, maximera sin avkastning på produktutvecklingen och skapa nöjdare och mer lojala användare.
 
-## Värdet av ux research
+## Värdet av UX research
 
 <div class="dragspel">
 <details>
@@ -47,7 +47,7 @@ Genom att lösa dessa problem blir produkten mer intuitiv och användarvänlig, 
 
 UX research sätter användarna i fokus under hela utvecklingsprocessen. Det säkerställer att designen utvecklas med hänsyn till användarnas åsikter, vilket skapar en produkt som är lätt att använda och ger värde.
 
- En kundcentrerad designprocess innebär att slutprodukten är direkt utformad för att tillgodose användarnas behov, vilket i sin tur ökar användarnas engagemang, lojalitet och benägenhet att återvända.
+En kundcentrerad designprocess innebär att slutprodukten är direkt utformad för att tillgodose användarnas behov, vilket i sin tur ökar användarnas engagemang, lojalitet och benägenhet att återvända.
 
 </details>
 <details>
@@ -55,7 +55,7 @@ UX research sätter användarna i fokus under hela utvecklingsprocessen. Det sä
 
 Genom att investera i UX research kan företag säkerställa att resurser läggs på rätt funktioner och lösningar som faktiskt löser användarnas problem och leder till affärsresultat.
 
-När design och utveckling är baserade på insikter från användarna, ökar chansen för att produkten blir framgångsrik. Detta minimerar onödiga kostnader och maximerar avkastningen på investeringen (ROI).
+När design och utveckling är baserade på insikter från användarna ökar chansen för att produkten blir framgångsrik. Detta minimerar onödiga kostnader och maximerar avkastningen på investeringen (ROI).
 
 </details>
 <details>
@@ -77,7 +77,7 @@ Företaget kan optimera sina resurser genom att fokusera på att utveckla funkti
 <details>
 <summary>Upptäck dolda möjligheter</summary>
 
-När en produkt är utvecklad baserat på insikter från verkliga användare, är den mer benägen att möta deras behov och överträffa deras förväntningar. Det bidrar till att skapa en mer engagerande och positiv användarupplevelse.
+När en produkt är utvecklad baserat på insikter från verkliga användare är den mer benägen att möta deras behov och överträffa deras förväntningar. Det bidrar till att skapa en mer engagerande och positiv användarupplevelse.
 
 En bättre användarupplevelse leder till nöjdare användare som blir lojala kunder. Detta minskar kostnaderna för att få nya kunder och skapar en stabil, återkommande kundbas.
 
@@ -89,9 +89,9 @@ En bättre användarupplevelse leder till nöjdare användare som blir lojala ku
 Varje resa börjar med ett första steg. Här är några förslag på relativt enkla och avgränsade insatser att börja med.
 
 <a class="knapp" href="/heuristisk-utvardering">Heuristisk utvärdering</a>
-<a class="knapp" href="/anvandarintervjuer">Användar-intervjuer</a>
-<a class="knapp" href="/anvandningstester">Användnings-tester</a>
-<a class="knapp" href="/personas-utveckling">Personas-utveckling</a>
+<a class="knapp" href="/anvandarintervjuer">Användarintervjuer</a>
+<a class="knapp" href="/anvandningstester">Användningstester</a>
+<a class="knapp" href="/personas-utveckling">Personasutveckling</a>
 ## Konsult
 
 Större insatser tar såklart längre tid, men ger också större resultat. Tractory kan bidra i ett djupare engagemang med tjänsten i fråga tillsammans med ett befintligt team.

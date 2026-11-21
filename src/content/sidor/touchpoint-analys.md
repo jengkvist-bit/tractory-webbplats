@@ -1,7 +1,7 @@
 ---
-titel: "Touchpoint-analys"
+titel: "Touchpointanalys"
 sidtitel: "Touchpointanalys — Tractory"
-beskrivning: "Vi analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt, eller butiksupplevelsen."
+beskrivning: "Vi analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt eller butiksupplevelsen."
 delningsbild: "/bilder/Tractory-Some-9.webp"
 ---
 
@@ -9,15 +9,15 @@ En avgränsad men värdeskapande aktivitet för dig som vill börja tillämpa se
 
 ## Vad det innebär
 
-Vi analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt, eller butiksupplevelsen.
+Vi analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt eller butiksupplevelsen.
 
 ## Värdet det ger
 
-En touchpoint-analys ger insikter om hur denna kontaktpunkt kan förbättras för att skapa en bättre kundupplevelse. Det kan leda till högre konverteringsgrad, nöjdare kunder, eller effektivare hantering.
+En touchpointanalys ger insikter om hur denna kontaktpunkt kan förbättras för att skapa en bättre kundupplevelse. Det kan leda till högre konverteringsgrad, nöjdare kunder eller effektivare hantering.
 
 ## Omfattning
 
-Fokusera på att analysera en enda kontaktpunkt, exempelvis hur kunder interagerar med ett onlineformulär eller hur deras köpupplevelse fungerar vid en specifik kanal.
+Fokusera på att analysera en enda kontaktpunkt, exempelvis hur kunder interagerar med ett onlineformulär eller hur deras köpupplevelse fungerar i en specifik kanal.
 
 <a class="knapp" href="/kontakt">Kontakt</a>
 <a class="knapp" href="/tjanster">Alla tjänster</a>

@@ -1,15 +1,13 @@
 ---
 titel: "Varför finns det inte fler UX-sociologer?"
 datum: "2024-08-21"
-beskrivning: "I dagens digitala värld är psykologi ofta i fokus när vi designar användarupplevelser och tjänster. Men vad händer när vi bara ser till individen och missar den större sociala kontexten? Den här artikeln utforskar varför sociologi, med sitt både mikro- och makroperspektiv, kan ge oss en bredare och mer holistisk förståelse av hur digitala tjänster och produkter interagerar med sina användare och det samhälle de lever i. Det är dags att integrera sociologi i vårt designarbete för att skapa mer meningsfulla och socialt ansvarstagande lösningar. "
+beskrivning: "I dagens digitala värld är psykologi ofta i fokus när vi designar användarupplevelser och tjänster. Men vad händer när vi bara ser till individen och missar den större sociala kontexten? Den här artikeln utforskar varför sociologi, med sitt både mikro- och makroperspektiv, kan ge oss en bredare och mer holistisk förståelse av hur digitala tjänster och produkter interagerar med sina användare och det samhälle de lever i. Det är dags att integrera sociologi i vårt designarbete för att skapa mer meningsfulla och socialt ansvarstagande lösningar."
 utdrag: "I dagens digitala värld är psykologi ofta i fokus när vi designar användarupplevelser och tjänster. Men vad händer när vi bara ser till individen och missar den större sociala kontexten? Den här artikeln utforskar varför sociologi, med sitt både mikro- och makroperspektiv, kan ge oss en bredare och mer holistisk förståelse av hur digitala tjänster och produkter interagerar med sina användare och det samhälle de lever i."
 listbild: "/bilder/unsplash-image--5rA4DRrEXU.webp"
 delningsbild: "/bilder/unsplash-image--5rA4DRrEXU-2.webp"
 ---
 
 ![](/bilder/unsplash-image--5rA4DRrEXU-3.webp)
-
-\*\*
 
 ## Vi kan bredda perspektivet på digital design
 
@@ -51,7 +49,7 @@ Denna balanserade approach gör det möjligt för oss att designa produkter och 
 
 I en värld där digitala produkter i allt högre grad formar socialt beteende har behovet av ett sociologiskt perspektiv i design aldrig varit större. Även om psykologin alltid kommer att vara en hörnsten i UX och servicedesign är det dags att också ge plats för sociologin. Genom att göra det kan vi skapa designer som inte bara tillgodoser individuella behov, utan också bidrar till ett hälsosammare och mer rättvist samhälle.
 
-Så varför finns det inte fler UX-sociologer? Kanske för att vi har varit alltför fokuserade på individen för att se den större bilden. Men eftersom digital designens påverkan på samhället blir alltmer uppenbar är det klart att vi behöver båda perspektiven. Vi designar trots allt inte bara för användare; vi designar för världen de lever i.
+Så varför finns det inte fler UX-sociologer? Kanske för att vi har varit alltför fokuserade på individen för att se den större bilden. Men eftersom den digitala designens påverkan på samhället blir alltmer uppenbar är det klart att vi behöver båda perspektiven. Vi designar trots allt inte bara för användare; vi designar för världen de lever i.
 
 Vissa har redan påpekat värdet av detta särskilda sociologiska perspektiv när man formar digitala produkter och tjänster, men finns det verkligen några UX-sociologer där ute?
 

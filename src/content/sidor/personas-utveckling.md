@@ -1,5 +1,5 @@
 ---
-titel: "Personas-utveckling"
+titel: "Personasutveckling"
 sidtitel: "Personasutveckling — Tractory"
 beskrivning: "Vi samlar in och analyserar användardata för att skapa detaljerade personas som representerar olika användargrupper. Dessa personas kan hjälpa företaget att förstå sina användare bättre och anpassa sin design därefter."
 delningsbild: "/bilder/Tractory-Some-16.webp"
@@ -17,7 +17,7 @@ Få tydliga användarprofiler som hjälper företaget att bättre förstå olika
 
 ## Omfattning
 
-Skapa 2-3 personas baserat på befintlig användardata eller en mindre mängd ny insamlad information från en specifik kundgrupp.
+Skapa 2–3 personas baserat på befintlig användardata eller en mindre mängd ny insamlad information från en specifik kundgrupp.
 
 <a class="knapp" href="/kontakt">Kontakt</a>
 <a class="knapp" href="/tjanster">Alla tjänster</a>

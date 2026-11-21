@@ -1,7 +1,7 @@
 ---
 titel: "Heuristisk utvärdering"
 sidtitel: "Heuristisk utvärdering — Tractory"
-beskrivning: "En UX-expert granskar webbplatsen eller appen baserat på etablerade designprinciper (heuristics) för att identifiera användarvänlighetsproblem och ge rekommendationer för förbättringar."
+beskrivning: "En UX-expert granskar webbplatsen eller appen baserat på etablerade designprinciper (heuristiker) för att identifiera användarvänlighetsproblem och ge rekommendationer för förbättringar."
 delningsbild: "/bilder/Tractory-Some-14.webp"
 ---
 
@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill fördjupa din ux i 
 
 ## Vad det innebär
 
-En UX-expert granskar webbplatsen eller appen baserat på etablerade designprinciper (heuristics) för att identifiera användarvänlighetsproblem och ge rekommendationer för förbättringar.
+En UX-expert granskar webbplatsen eller appen baserat på etablerade designprinciper (heuristiker) för att identifiera användarvänlighetsproblem och ge rekommendationer för förbättringar.
 
 ## Värdet det ger
 
