@@ -44,3 +44,9 @@ npm run dev
 ## Bakgrund
 
 Innehållet flyttades från Squarespace i november 2026 med `verktyg/importera.py`. Skriptet behövs inte längre för vardagliga ändringar.
+
+## Cookies och webbanalys
+
+Sajten sätter inga cookies och laddar inget från andra sajter (typsnittet Poppins ligger i sajten själv). Därför behövs ingen cookie-banner.
+
+Besök räknas med [GoatCounter](https://www.goatcounter.com), som inte använder cookies och inte sparar personuppgifter. Statistiken finns på https://tractory.goatcounter.com. Inställningen ligger överst i `src/layouts/Bas.astro`, och besök räknas bara på www.tractory.se.
