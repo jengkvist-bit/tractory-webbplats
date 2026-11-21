@@ -33,6 +33,8 @@ const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + 
   <meta property="og:title" content={titel} />
   <meta property="og:description" content={beskrivning} />
   <meta property="og:image" content={new URL(base + bild, Astro.site)} />
+  <!-- Bevisar för Google Search Console att sajten är Jonas. -->
+  <meta name="google-site-verification" content="CEOBSqHg8uPvgsAeRM25r62H6VNamVnLk6cs5tBOjak" />
   <link rel="icon" href={base + '/bilder/favicon.webp'} />
   <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
   {[webbplats, ...schema].map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
