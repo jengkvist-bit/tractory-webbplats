@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill fördjupa din ux el
 
 ## Vad det innebär
 
-Vi genomför kvalitativa användarintervjuer med ett mindre urval av användare för att förstå deras behov, mål och frustrationer. Intervjuerna hjälper till att identifiera problem och möjligheter i användarupplevelsen.
+Jag genomför kvalitativa användarintervjuer med ett mindre urval av användare för att förstå deras behov, mål och frustrationer. Intervjuerna hjälper till att identifiera problem och möjligheter i användarupplevelsen.
 
 ## Värdet det ger
 

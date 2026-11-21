@@ -5,24 +5,32 @@ beskrivning: "Tractory AB drivs av Jonas Engkvist, tjänstedesigner sedan 2007 m
 delningsbild: "/bilder/20170831_portratt_ONE_DAY16793.webp"
 ---
 
-![](/bilder/20170831_portratt_ONE_DAY16793-2.webp)
+![Jonas Engkvist](/bilder/20170831_portratt_ONE_DAY16793-2.webp)
 
-Tractory AB drivs av Jonas Engkvist, yrkesverksam inom tjänstedesign och UX-design sedan 2007. Jonas har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik. Med över åtta års universitetsutbildning och en passion för digital etik ligger fokus på att skapa innovativa och användarcentrerade designlösningar.
+**Tractory AB drivs av Jonas Engkvist, tjänstedesigner i Stockholm.** Jag har arbetat med tjänstedesign och UX sedan 2007 och hjälper organisationer att förstå och förbättra sina tjänster, utifrån hur människor faktiskt använder dem.
 
-Tractory är också en del av designbyrån [One Day Interact](https://onedayinteract.se/), som har ett bredare tjänsteutbud av digital design.
+## Bakgrund
 
-## Mål
+Jag har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik, med över åtta års universitetsstudier. Det gör att jag ser både individen och det sociala sammanhanget runt en tjänst. Jag har arbetat med allt från lärandeupplevelser till webbplatser och digitala tjänster i de flesta branscher.
 
-Tractory strävar efter att vara ledande inom designinnovation genom att skapa lösningar som är både hållbara och etiskt försvarbara. Målet är att förbättra människors liv genom design som inte bara är funktionell och estetiskt tilltalande, utan också respektfull mot användarnas integritet och välmående.
+Tractory är också en del av designbyrån [One Day Interact](https://onedayinteract.se/), som har ett bredare utbud inom digital design.
 
-## Engagemang
+## Digital etik
 
-Tractory har ett [djupt engagemang i digital etik och socialt ansvar](https://www.digitaldesignethics.com/). Design ska vara inkluderande och tillgänglig för alla, och bidra positivt till samhället. Sunda värderingar är fundamentet för lösningar som inte bara är effektiva utan också ansvarsfulla.
+Jag är initiativtagare till [Digital Design Ethics](https://www.digitaldesignethics.com/), tio principer för etisk digital design skrivna som användarhistorier. De är fria att använda i alla designprojekt. Etik är för mig en del av hantverket: design ska vara inkluderande, respektera människors integritet och bidra positivt till samhället.
 
-Det ska också vara kul att jobba. Att vara professionell och seriös är ingen motsats till att skratta och le.
+## Texter och perspektiv
 
-## Verktyg
+Jag skriver om UX research, tjänstedesign, digital etik och det digitala samhället, på svenska här på sajten och på engelska på [Medium](https://medium.com/@jonasengkvist). Flera texter har publicerats i UX Collective, bland annat:
 
-Tractorys fokus är tjänstedesign, UX-design och UX research. Processerna är djupt rotade i att förstå användarens behov och beteenden, vilket skapar lösningar som verkligen gör skillnad. Med avstamp i både kvalitativa och kvantitativa forskningsmetoder designas produkter och tjänster som är effektiva, engagerande och ibland överraskande.
+- [UX behöver mer punk!](/blogg/ux-behver-mer-punk)
+- [Varför finns det inte fler UX-sociologer?](/blogg/varfr-finns-det-inte-fler-ux-sociologer)
+- [10 etiska principer för digitala tjänster](/blogg/10-etiska-principer-for-digitala-tjanster)
 
-<a class="knapp" href="/tjanster">Tjänster</a>
+## Hur jag arbetar
+
+Tjänstedesign är kärnan, med UX research som grund för besluten. Jag kombinerar kvalitativa och kvantitativa metoder och lägger stor vikt vid att data håller. Det ska också vara kul att jobba: att vara professionell och seriös är ingen motsats till att skratta och le.
+
+<a class="knapp" href="/kontakt">Boka ett samtal</a>
+<a class="knapp kontur" href="https://www.linkedin.com/in/jonas-engkvist/">LinkedIn</a>
+<a class="knapp kontur" href="https://medium.com/@jonasengkvist">Medium</a>

@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill börja tillämpa se
 
 ## Vad det innebär
 
-Vi faciliterar en workshop där vi tillsammans med teamet runtomkring tjänsten kartlägger alla steg i en specifik tjänst eller process, från kundens interaktioner (kontaktytor) till de interna processerna (organisation) som stödjer tjänsten.
+Jag faciliterar en workshop där jag tillsammans med teamet runtomkring tjänsten kartlägger alla steg i en specifik tjänst eller process, från kundens interaktioner (kontaktytor) till de interna processerna (organisation) som stödjer tjänsten.
 
 ## Värdet det ger
 
