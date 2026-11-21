@@ -12,7 +12,21 @@ const { i } = Astro.props;
 const { Content } = await render(i);
 const datum = i.data.datum.toISOString().slice(0, 10);
 ---
-<Bas titel={`${i.data.titel} — Tractory`} beskrivning={i.data.beskrivning} bild={i.data.delningsbild}>
+<Bas
+  titel={`${i.data.titel} — Tractory`}
+  beskrivning={i.data.beskrivning}
+  bild={i.data.delningsbild}
+  schema={[{
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: i.data.titel,
+    datePublished: datum,
+    author: { '@type': 'Person', name: 'Jonas Engkvist' },
+    publisher: { '@type': 'Organization', name: 'Tractory' },
+    image: i.data.delningsbild ? new URL(i.data.delningsbild, Astro.site).href : undefined,
+    url: new URL(`/blogg/${i.id}`, Astro.site).href,
+  }]}
+>
   <article class="innehall">
     <div class="text">
       <p class="meta">Jonas Engkvist · <time datetime={datum}>{datum}</time></p>
