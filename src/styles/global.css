@@ -113,3 +113,21 @@ p { margin: 0 0 1.1em; }
 .sidfot p { margin: 0 0 .6em; font-size: 1rem; }
 .sidfot-namn { font-size: 2.4rem !important; font-weight: 500; }
 .sidfot-rubrik { font-size: 1.2rem !important; margin-bottom: 1em !important; }
+
+/* ====== Kontaktsidan ====== */
+.text:has(.kontakt-grid) { max-width: none; }
+.kontakt-grid { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 64px; align-items: start; }
+.kontakt-grid h2 { margin-top: 1.4em; }
+.kontakt-grid img { aspect-ratio: 4 / 5; object-fit: cover; width: 100%; margin: 0; }
+.bildtext { font-size: .9rem; color: var(--tunn-text); margin-top: .6em; }
+.liten { font-size: .95rem; color: var(--tunn-text); }
+.steg { list-style: none; padding: 0; margin: 1.5em 0 2em; counter-reset: steg; border-top: 1px solid var(--text); }
+.steg li { counter-increment: steg; border-bottom: 1px solid var(--text); padding: 16px 0 16px 52px; position: relative; font-size: 1rem; }
+.steg li::before { content: counter(steg); position: absolute; left: 0; top: 14px; font-weight: 500; font-size: 1.4rem; }
+.steg strong { font-weight: 500; display: block; }
+.adress { font-weight: 500; font-size: 1.3rem; margin-bottom: .4em; }
+button.knapp { font-family: inherit; line-height: inherit; cursor: pointer; }
+@media (max-width: 820px) {
+  .kontakt-grid { grid-template-columns: 1fr; gap: 32px; }
+  .kontakt-grid img { max-width: 320px; }
+}
