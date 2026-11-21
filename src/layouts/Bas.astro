@@ -1,0 +1,60 @@
+---
+// Grundmallen som alla sidor använder: <head>, sidhuvud och sidfot.
+import '@fontsource/poppins/300.css';
+import '@fontsource/poppins/500.css';
+import '../styles/global.css';
+
+interface Props { titel: string; beskrivning?: string; bild?: string }
+const { titel, beskrivning = '', bild = '/bilder/Tractory-Some.webp' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const sökväg = Astro.url.pathname.replace(base, '');
+const meny = [
+  { text: 'Tjänster', href: '/tjanster' },
+  { text: 'Om', href: '/om-oss' },
+  { text: 'Kontakt', href: '/kontakt' },
+  { text: 'Blogg', href: '/blogg' },
+];
+const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + '/');
+---
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{titel}</title>
+  <meta name="description" content={beskrivning} />
+  <meta property="og:title" content={titel} />
+  <meta property="og:description" content={beskrivning} />
+  <meta property="og:image" content={new URL(base + bild, Astro.site)} />
+  <link rel="icon" href={base + '/bilder/favicon.webp'} />
+  <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+</head>
+<body>
+  <a class="hoppa" href="#innehall">Gå vidare till innehåll</a>
+  <header class="sidhuvud">
+    <a class="logga" href={base + '/'}>Tractory</a>
+    <nav aria-label="Huvudmeny">
+      <ul>
+        {meny.map((m) => (
+          <li><a href={base + m.href} aria-current={aktiv(m.href) ? 'page' : undefined}>{m.text}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </header>
+  <main id="innehall">
+    <slot />
+  </main>
+  <footer class="sidfot">
+    <div class="sidfot-inre">
+      <div>
+        <p class="sidfot-namn">Tractory AB</p>
+        <p>Copyright {new Date().getFullYear()}</p>
+      </div>
+      <div>
+        <p class="sidfot-rubrik">Kontakt</p>
+        <p><a href="mailto:jonas@tractory.se">Skicka ett mail</a></p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

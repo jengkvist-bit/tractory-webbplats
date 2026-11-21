@@ -1,0 +1,26 @@
+---
+import { url } from '../../lib/url';
+// Bloggens översiktssida – listar alla inlägg, nyast först
+import Bas from '../../layouts/Bas.astro';
+import { getCollection } from 'astro:content';
+const inlagg = (await getCollection('blogg')).sort((a, b) => b.data.datum.valueOf() - a.data.datum.valueOf());
+const datum = (d: Date) => d.toISOString().slice(0, 10);
+---
+<Bas titel="Det digitala samhället — Tractory" beskrivning="Tankar och idéer om digital design som en katalysator för en bättre digital värld för alla.">
+  <section class="innehall">
+    <h1>Blogg</h1>
+    <ul class="blogglista">
+      {inlagg.map((i) => (
+        <li class="inlagg-kort">
+          {i.data.listbild && <a href={url(`/blogg/${i.id}`)} tabindex="-1" aria-hidden="true"><img src={url(i.data.listbild)} alt="" loading="lazy" /></a>}
+          <div>
+            <p class="meta">Jonas Engkvist · <time datetime={datum(i.data.datum)}>{datum(i.data.datum)}</time></p>
+            <h2><a href={url(`/blogg/${i.id}`)}>{i.data.titel}</a></h2>
+            <p>{i.data.utdrag || i.data.beskrivning}</p>
+            <a class="knapp kontur" href={url(`/blogg/${i.id}`)}>Läs mer</a>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Bas>
