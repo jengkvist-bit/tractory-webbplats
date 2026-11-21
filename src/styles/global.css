@@ -131,3 +131,4 @@ button.knapp { font-family: inherit; line-height: inherit; cursor: pointer; }
   .kontakt-grid { grid-template-columns: 1fr; gap: 32px; }
   .kontakt-grid img { max-width: 320px; }
 }
+.sidfot-kakor { font-size: .9rem !important; opacity: .75; margin-top: 1.4em !important; }
