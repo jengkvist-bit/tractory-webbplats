@@ -1,8 +1,8 @@
 ---
 titel: "5 klavertramp jag gjort som UX-designer"
 datum: "2019-09-30"
-beskrivning: " Jag har designat digitala upplevelser i cirka 10-15 år. Från immersiva lärandeupplevelser till webbplatser och digitala tjänster för nästan alla branscher. Jag tänkte dela med mig av några av de största misstagen jag har gjort under min karriär hittills. Förhoppningsvis kan det hjälpa andra att undvika dessa fallgropar. Här kommer de. "
-utdrag: "Jag har designat digitala upplevelser i cirka 10-15 år. Från immersiva lärandeupplevelser till webbplatser och digitala tjänster för nästan alla branscher. Jag tänkte dela med mig av några av de största misstagen jag har gjort under min karriär hittills. Förhoppningsvis kan det hjälpa andra att undvika dessa fallgropar. Här kommer de."
+beskrivning: "Jag har designat digitala upplevelser i cirka 10–15 år. Från immersiva lärandeupplevelser till webbplatser och digitala tjänster för nästan alla branscher. Jag tänkte dela med mig av några av de största misstagen jag har gjort under min karriär hittills. Förhoppningsvis kan det hjälpa andra att undvika dessa fallgropar. Här kommer de."
+utdrag: "Jag har designat digitala upplevelser i cirka 10–15 år. Från immersiva lärandeupplevelser till webbplatser och digitala tjänster för nästan alla branscher. Jag tänkte dela med mig av några av de största misstagen jag har gjort under min karriär hittills. Förhoppningsvis kan det hjälpa andra att undvika dessa fallgropar. Här kommer de."
 listbild: "/bilder/image-asset-3.webp"
 delningsbild: "/bilder/1718882594517.webp"
 ---

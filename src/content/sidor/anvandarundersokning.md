@@ -1,5 +1,5 @@
 ---
-titel: "Användar-undersökning"
+titel: "Användarundersökning"
 sidtitel: "Användarundersökning — Tractory"
 beskrivning: "En användarundersökning samlar in feedback från kundens kunder eller användare. Syftet är att förstå hur de upplever företagets tjänster, identifiera frustrationer och områden som kan förbättras."
 delningsbild: "/bilder/Tractory-Some-10.webp"

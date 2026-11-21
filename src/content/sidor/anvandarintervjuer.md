@@ -1,5 +1,5 @@
 ---
-titel: "Användar-intervjuer"
+titel: "Användarintervjuer"
 sidtitel: "Användarintervjuer — Tractory"
 beskrivning: "Vi genomför kvalitativa användarintervjuer med ett mindre urval av användare för att förstå deras behov, mål och frustrationer. Intervjuerna hjälper till att identifiera problem och möjligheter i användarupplevelsen."
 delningsbild: "/bilder/Tractory-Some-14.webp"
@@ -17,7 +17,7 @@ Få detaljerade insikter direkt från användarna om vad som fungerar bra och va
 
 ## Omfattning
 
-Ett litet antal intervjuer (t.ex. 5-10 användare) med fokus på en specifik del av tjänsten eller en funktion.
+Ett litet antal intervjuer (t.ex. 5–10 användare) med fokus på en specifik del av tjänsten eller en funktion.
 
 <a class="knapp" href="/kontakt">Kontakt</a>
 <a class="knapp" href="/tjanster">Alla tjänster</a>

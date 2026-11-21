@@ -1,13 +1,13 @@
 ---
-titel: "UX design"
-sidtitel: "UX design — Tractory"
-beskrivning: "UX-design skapar värde genom att förbättra användarupplevelsen, vilket leder till högre konverteringsgrad, nöjdare användare, minskade utvecklingskostnader och starkare kundlojalitet. "
+titel: "UX-design"
+sidtitel: "UX-design — Tractory"
+beskrivning: "UX-design skapar värde genom att förbättra användarupplevelsen, vilket leder till högre konverteringsgrad, nöjdare användare, minskade utvecklingskostnader och starkare kundlojalitet."
 delningsbild: "/bilder/Tractory-Some-13.webp"
 ---
 
 UX-design skapar värde genom att förbättra användarupplevelsen, vilket leder till högre konverteringsgrad, nöjdare användare, minskade utvecklingskostnader och starkare kundlojalitet. Det hjälper företag att nå sina affärsmål samtidigt som användarna får en smidig och njutbar upplevelse, vilket är avgörande för att lyckas i en konkurrensutsatt digital värld.
 
-## Värdet av ux design
+## Värdet av UX-design
 
 <div class="dragspel">
 <details>
@@ -45,7 +45,7 @@ Företaget kan säkerställa att designen verkligen möter användarnas behov oc
 <details>
 <summary>Förtydliga affärsmålen</summary>
 
-UX-design fungerar som en bro mellan användarnas behov och företagets affärsmål. UX-design hjälper företaget att skapa en tydlig och genomtänkt struktur där varje steg i användarens resa är utformad för att uppnå specifika affärsresultat. Detta gör det lättare att nå både användarnas och företagets mål på ett effektivt sätt.
+UX-design fungerar som en bro mellan användarnas behov och företagets affärsmål. UX-design hjälper företaget att skapa en tydlig och genomtänkt struktur där varje steg i användarens resa är utformat för att uppnå specifika affärsresultat. Detta gör det lättare att nå både användarnas och företagets mål på ett effektivt sätt.
 
 </details>
 <details>
@@ -57,7 +57,7 @@ Det sparar tid och pengar eftersom ni undviker att behöva göra stora omarbetni
 
 </details>
 <details>
-<summary>Stärk tillgänglighet och inkluderande</summary>
+<summary>Stärk tillgänglighet och inkludering</summary>
 
 UX-design ser till att en digital produkt eller tjänst är tillgänglig för alla användare, oavsett funktionsvariationer eller tekniska förutsättningar. Detta kan innebära att designen görs kompatibel med skärmläsare eller optimeras för olika enheter.
 
@@ -71,8 +71,8 @@ Genom att göra tjänsten mer tillgänglig för en bredare publik kan företaget
 Varje resa börjar med ett första steg. Här är några förslag på relativt enkla och avgränsade insatser att börja med.
 
 <a class="knapp" href="/customer-journey-mapping">Customer journey mapping</a>
-<a class="knapp" href="/anvandarundersokning">Användar-undersökning</a>
-<a class="knapp" href="/ux-testning">ux-testning</a>
+<a class="knapp" href="/anvandarundersokning">Användarundersökning</a>
+<a class="knapp" href="/ux-testning">UX-testning</a>
 <a class="knapp" href="/prototyp">Prototyp</a>
 ## Konsult
 

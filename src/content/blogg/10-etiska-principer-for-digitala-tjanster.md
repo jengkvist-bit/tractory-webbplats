@@ -9,7 +9,7 @@ delningsbild: "/bilder/1718883371903.webp"
 
 ![](/bilder/image-asset-9.webp)
 
-I min artikel "A Tool for Ethics in Digital Design" diskuterar jag vikten av att integrera etiska överväganden i digital designprocesser. Jag introducerar ett verktyg som hjälper designers att bedöma och hantera etiska dilemman genom hela designprocessen. Verktyget syftar till att främja transparens och användarcentrerade beslut, vilket kan leda till mer ansvarsfulla och hållbara digitala produkter. Genom att använda detta verktyg kan designers skapa bättre och mer etiska digitala upplevelser, vilket gynnar både användare och samhälle.
+I min artikel "A Tool for Ethics in Digital Design" diskuterar jag vikten av att integrera etiska överväganden i digitala designprocesser. Jag introducerar ett verktyg som hjälper designers att bedöma och hantera etiska dilemman genom hela designprocessen. Verktyget syftar till att främja transparens och användarcentrerade beslut, vilket kan leda till mer ansvarsfulla och hållbara digitala produkter. Genom att använda detta verktyg kan designers skapa bättre och mer etiska digitala upplevelser, vilket gynnar både användare och samhälle.
 
 Jag beskriver också hur verktyget fungerar i praktiken och ger exempel på hur det kan användas i olika designfaser, från initiala idéer till färdiga produkter. Verktyget är utformat för att vara lättanvänt och integrerat i befintliga designprocesser, vilket gör det till ett värdefullt tillägg för alla designteam som vill arbeta mer etiskt.
 

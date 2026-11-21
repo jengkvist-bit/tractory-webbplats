@@ -1,5 +1,5 @@
 ---
-titel: "Användnings-tester"
+titel: "Användningstester"
 sidtitel: "Användningstester — Tractory"
 beskrivning: "Få direkt feedback om hur väl produkten fungerar för användarna, samt identifiera det som förhindrar användarna från att slutföra viktiga handlingar (som köp eller registrering)."
 delningsbild: "/bilder/Tractory-Some-15.webp"
@@ -17,7 +17,7 @@ Få direkt feedback om hur väl produkten fungerar för användarna, samt identi
 
 ## Omfattning
 
-Genomför användartester med 5-8 deltagare för en specifik funktion, till exempel ett registreringsflöde eller köpprocess.
+Genomför användartester med 5–8 deltagare för en specifik funktion, till exempel ett registreringsflöde eller köpprocess.
 
 <a class="knapp" href="/kontakt">Kontakt</a>
 <a class="knapp" href="/tjanster">Alla tjänster</a>

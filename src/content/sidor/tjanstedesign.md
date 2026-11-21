@@ -25,7 +25,7 @@ Hitta problemområden där saker går långsamt eller där kunder tenderar att b
 <details>
 <summary>Anpassa och personalisera</summary>
 
-Skräddarsy tjänsten så att de möter varje kunds specifika behov och preferenser.
+Skräddarsy tjänsten så att den möter varje kunds specifika behov och preferenser.
 
 </details>
 <details>
@@ -66,9 +66,9 @@ Varje resa börjar med ett första steg. Här är några förslag på relativt e
 
 <a class="knapp" href="/customer-journey-mapping">Customer journey mapping</a>
 <a class="knapp" href="/service-blueprint-workshop">Service blueprint workshop</a>
-<a class="knapp" href="/touchpoint-analys">Touchpoint-analys</a>
-<a class="knapp" href="/anvandarundersokning">Användar-undersökning</a>
-<a class="knapp" href="/ux-testning">ux-testning</a>
+<a class="knapp" href="/touchpoint-analys">Touchpointanalys</a>
+<a class="knapp" href="/anvandarundersokning">Användarundersökning</a>
+<a class="knapp" href="/ux-testning">UX-testning</a>
 <a class="knapp" href="/prototyp">Prototyp</a>
 <a class="knapp" href="/service-design-sprint">Service design sprint</a>
 ## Konsult
