@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill fördjupa din ux i 
 
 ## Vad det innebär
 
-Vi samlar in och analyserar användardata för att skapa detaljerade personas som representerar olika användargrupper. Dessa personas kan hjälpa företaget att förstå sina användare bättre och anpassa sin design därefter.
+Jag samlar in och analyserar användardata för att skapa detaljerade personas som representerar olika användargrupper. Dessa personas kan hjälpa företaget att förstå sina användare bättre och anpassa sin design därefter.
 
 ## Värdet det ger
 

@@ -1,7 +1,7 @@
 ---
 titel: "Touchpointanalys"
 sidtitel: "Touchpointanalys — Tractory"
-beskrivning: "Vi analyserar en kontaktpunkt där kunder möter företaget, till exempel inloggning, kundsupport via chatt eller butiksupplevelsen."
+beskrivning: "Jag analyserar en kontaktpunkt där kunder möter företaget, till exempel inloggning, kundsupport via chatt eller butiksupplevelsen."
 delningsbild: "/bilder/Tractory-Some-9.webp"
 ---
 
@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill börja tillämpa se
 
 ## Vad det innebär
 
-Vi analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt eller butiksupplevelsen.
+Jag analyserar en specifik “touchpoint” (kontaktpunkt) där kunder interagerar med företaget, till exempel webbplatsens inloggningsprocess, kundsupport via chatt eller butiksupplevelsen.
 
 ## Värdet det ger
 

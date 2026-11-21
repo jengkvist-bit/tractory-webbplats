@@ -5,74 +5,76 @@ beskrivning: "Tjänstedesign som ser hela kundresan. Nöjdare kunder, färre mis
 delningsbild: "/bilder/Tractory-Some-5.webp"
 ---
 
-Service design fokuserar på hela kundresan och skapar en sömlös, enkel och anpassad upplevelse. Det leder till nöjdare kunder, färre misstag, lägre kostnader och högre effektivitet, vilket i slutändan bidrar till ett starkare varumärke och högre lönsamhet.
+**Tjänstedesign är att utforma en tjänst utifrån hela kundens resa, inte bara det som syns på skärmen.** Det betyder att kontaktytorna, de interna processerna och organisationen bakom ska hänga ihop. Jag hjälper organisationer i Stockholm att förstå var deras tjänster brister och vad de ska göra åt det. Mina uppdragsgivare är ofta projektledare, produktägare och affärsutvecklare som vet att tjänsten kan bli bättre, men behöver stöd i hur.
 
-## Värdet av tjänstedesign
+Jag har arbetat med tjänstedesign och UX sedan 2007, med en akademisk bakgrund i kognitionsvetenskap, psykologi och sociologi. Det betyder att jag ser både människan och sammanhanget hon lever i. Etik är en del av arbetet, inte ett tillägg. Jag är initiativtagare till [Digital Design Ethics](https://www.digitaldesignethics.com/), tio principer för etisk digital design, och förhåller mig till de principerna i allt jag gör.
 
-<div class="dragspel">
-<details>
-<summary>Förstå hela kundupplevelsen</summary>
+## Vad tjänstedesign ger
 
-Se till att alla delar av kundens resa – både de digitala och fysiska interaktionerna – hänger ihop och fungerar smidigt.
+När tjänsten hänger ihop får organisationen nöjdare kunder, färre misstag, lägre kostnader och en verksamhet som är lättare att styra. Konkret handlar det om att:
 
-</details>
-<details>
-<summary>Identifiera och eliminera flaskhalsar</summary>
+- **Förstå hela kundupplevelsen,** så att digitala och fysiska kontakter fungerar tillsammans.
+- **Hitta flaskhalsar,** där det går långsamt eller där kunder ger upp.
+- **Förtydliga och förenkla** beslut, flöden och kommunikation.
+- **Samordna tjänst och organisation,** så att det kunden möter stöds av rätt processer och system.
+- **Involvera användarna,** så att beslut bygger på verkliga behov och inte antaganden.
+- **Förbättra löpande,** med insikter från data och återkoppling.
 
-Hitta problemområden där saker går långsamt eller där kunder tenderar att bli frustrerade, exempelvis i supportprocesser eller vid betalning.
+## Så går ett uppdrag till
 
-</details>
-<details>
-<summary>Anpassa och personalisera</summary>
+1. **Samtal.** Vi pratar om er situation och vad ni vill uppnå. Det kostar inget, och vi märker snabbt om jag kan bidra.
+2. **Förstå.** Jag undersöker hur tjänsten fungerar i dag, med intervjuer, observationer och befintlig data. Både kunder och medarbetare kommer till tals.
+3. **Kartlägga.** Tillsammans med teamet synliggör vi kundresan och det som händer bakom kulisserna, ofta i en kundresekarta eller service blueprint.
+4. **Prioritera och utforma.** Vi väljer de förändringar som ger mest effekt och tar fram lösningar, ofta som prototyper som testas med riktiga användare.
+5. **Förankra.** Resultatet ska gå att genomföra. Jag hjälper till att förankra det i organisationen och följa upp effekten.
 
-Skräddarsy tjänsten så att den möter varje kunds specifika behov och preferenser.
+Ett uppdrag kan vara en avgränsad insats eller ett längre engagemang där jag arbetar nära ert team.
 
-</details>
-<details>
-<summary>Förtydliga och förenkla</summary>
+## Avgränsade insatser att börja med
 
-Optimera processer som interaktionsmönster, beslut, transaktioner och kommunikationsvägar så att tjänsten blir lätt att förstå och använda.
+Vill du testa tjänstedesign innan ett större uppdrag? De här insatserna tar några dagar till några veckor.
 
-</details>
-<details>
-<summary>Samordna tjänst och organisation</summary>
-
-Se till att det som kunden ser och upplever (gränssnitt) är i harmoni med de interna processer och system som stödjer tjänsten.
-
-</details>
-<details>
-<summary>Agera och innovera</summary>
-
-Istället för att bara reagera på befintliga behov, förutse framtida behov och anpassa tjänsten allteftersom samtiden förändras.
-
-</details>
-<details>
-<summary>Involvera användare</summary>
-
-Låt användarnas feedback och behov direkt påverka hur tjänsten utformas.
-
-</details>
-<details>
-<summary>Förbättra kontinuerligt</summary>
-
-Anpassa och förbättra baserat på insikter från användardata och feedback.
-
-</details>
-</div>
-
-## Avgränsade insatser
-
-Varje resa börjar med ett första steg. Här är några förslag på relativt enkla och avgränsade insatser att börja med.
-
-<a class="knapp" href="/customer-journey-mapping">Customer journey mapping</a>
 <a class="knapp" href="/service-blueprint-workshop">Service blueprint workshop</a>
+<a class="knapp" href="/customer-journey-mapping">Customer journey mapping</a>
+<a class="knapp" href="/service-design-sprint">Service design sprint</a>
 <a class="knapp" href="/touchpoint-analys">Touchpointanalys</a>
 <a class="knapp" href="/anvandarundersokning">Användarundersökning</a>
 <a class="knapp" href="/ux-testning">UX-testning</a>
 <a class="knapp" href="/prototyp">Prototyp</a>
-<a class="knapp" href="/service-design-sprint">Service design sprint</a>
-## Konsult
 
-Större insatser tar såklart längre tid, men ger också större resultat. Tractory kan bidra i ett djupare engagemang med tjänsten i fråga och organisationen runtomkring den.
+## Vanliga frågor
 
-<a class="knapp" href="/kontakt">Kontakt</a>
+<div class="dragspel">
+<details>
+<summary>Vad är skillnaden mellan tjänstedesign och UX-design?</summary>
+
+UX-design handlar oftast om upplevelsen i en produkt, till exempel en app eller webbplats. Tjänstedesign ser hela tjänsten: alla kontaktytor, digitala och fysiska, och organisationen och processerna bakom.
+
+</details>
+<details>
+<summary>När behöver man tjänstedesign?</summary>
+
+När kunderna ringer om saker som borde fungera, när en digital satsning inte används som tänkt eller när flera avdelningar äger varsin del av samma tjänst. Tjänstedesign behövs också innan ni bygger något nytt, så att ni löser rätt problem.
+
+</details>
+<details>
+<summary>Vad behöver vi bidra med?</summary>
+
+Tillgång till personer som känner tjänsten, i bland annat kundtjänst, verksamhet och IT, och möjlighet att prata med era kunder eller användare. Och en person som äger frågan hos er.
+
+</details>
+<details>
+<summary>Arbetar du med offentlig sektor?</summary>
+
+Ja, både med offentlig och privat sektor.
+
+</details>
+<details>
+<summary>Var finns du?</summary>
+
+I Stockholm. Jag arbetar på plats hos er och på distans.
+
+</details>
+</div>
+
+<a class="knapp" href="/kontakt">Boka ett samtal</a>

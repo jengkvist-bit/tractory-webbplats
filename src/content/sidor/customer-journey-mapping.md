@@ -1,7 +1,7 @@
 ---
 titel: "Customer journey mapping"
 sidtitel: "Customer journey mapping — Tractory"
-beskrivning: "Vi kartlägger en del av kundresan, från första kontakt till genomförd transaktion, och hittar frustrationer och förbättringsområden."
+beskrivning: "Jag kartlägger en del av kundresan, från första kontakt till genomförd transaktion, och hittar frustrationer och förbättringsområden."
 delningsbild: "/bilder/Tractory-Some-6.webp"
 ---
 
@@ -9,7 +9,7 @@ En avgränsad men värdeskapande aktivitet för dig som vill fördjupa din ux el
 
 ## Vad det innebär
 
-Vi faciliterar, kartlägger och analyserar en specifik del av kundens resa, exempelvis hur kunder interagerar med ett företag från första kontakt till genomförd transaktion. Målet är att identifiera frustrationer och förbättringsområden.
+Jag faciliterar, kartlägger och analyserar en specifik del av kundens resa, exempelvis hur kunder interagerar med ett företag från första kontakt till genomförd transaktion. Målet är att identifiera frustrationer och förbättringsområden.
 
 ## Värdet det ger
 
