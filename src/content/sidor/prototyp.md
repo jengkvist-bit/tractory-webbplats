@@ -1,7 +1,7 @@
 ---
 titel: "Prototyp av ny tjänst eller digital lösning"
-sidtitel: "Prototyp — Tractory"
-beskrivning: "Utveckla en enkel prototyp av en ny eller förbättrad tjänst som teamet överväger att lansera. Prototypen kan fokusera på användarflödet eller ett specifikt gränssnitt för att snabbt kunna testa idéer med riktiga användare."
+sidtitel: "Prototyp av ny tjänst — Tractory"
+beskrivning: "En enkel prototyp av en ny eller förbättrad tjänst, så att teamet snabbt kan testa idéer med riktiga användare innan lansering."
 delningsbild: "/bilder/Tractory-Some-8.webp"
 ---
 

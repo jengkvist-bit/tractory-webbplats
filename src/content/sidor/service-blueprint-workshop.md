@@ -1,7 +1,7 @@
 ---
 titel: "Service blueprint workshop"
 sidtitel: "Service blueprint workshop — Tractory"
-beskrivning: "En workshop där vi tillsammans med teamet runtomkring tjänsten kartlägger alla steg i en specifik tjänst eller process, från kundens interaktioner (kontaktytor) till de interna processerna (organisation) som stödjer tjänsten."
+beskrivning: "En workshop där teamet kartlägger alla steg i tjänsten, från kundens kontaktytor till de interna processerna som stödjer den."
 delningsbild: "/bilder/Tractory-Some-7.webp"
 ---
 

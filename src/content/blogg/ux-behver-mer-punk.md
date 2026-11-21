@@ -1,7 +1,7 @@
 ---
 titel: "UX behöver mer punk!"
 datum: "2024-09-23"
-beskrivning: "Polerade gränssnitt och sömlösa upplevelser börjar bli en allt större del av det digitala landskapet. Men har vi, i jakten på perfektion, tappat förmågan att skapa digitala upplevelser som berör själen? Här är spellistan för ditt nästa designprojekt."
+beskrivning: "Har vi i jakten på polerade gränssnitt tappat förmågan att skapa upplevelser som berör? Här är spellistan för ditt nästa designprojekt."
 utdrag: "Polerade gränssnitt och sömlösa upplevelser börjar bli en allt större del av det digitala landskapet. UX-design har på många sätt blivit för trygg. Vi värdesätter konsekvens, tillgänglighet och användarvänlighet – värden som är avgörande för att skapa bra produkter. Men är “bra” tillräckligt? Har vi, i jakten på perfektion, tappat förmågan att skapa digitala upplevelser som berör själen? Behöver kanske UX bli lite mer punk? Här är spellistan för ditt nästa designprojekt."
 listbild: "/bilder/2048px-Punks-in-love.webp"
 delningsbild: "/bilder/2048px-Punks-in-love-2.webp"

@@ -1,7 +1,7 @@
 ---
 titel: "Heuristisk utvärdering"
 sidtitel: "Heuristisk utvärdering — Tractory"
-beskrivning: "En UX-expert granskar webbplatsen eller appen baserat på etablerade designprinciper (heuristiker) för att identifiera användarvänlighetsproblem och ge rekommendationer för förbättringar."
+beskrivning: "En UX-expert granskar webbplatsen eller appen utifrån etablerade designprinciper och ger konkreta rekommendationer för förbättringar."
 delningsbild: "/bilder/Tractory-Some-14.webp"
 ---
 

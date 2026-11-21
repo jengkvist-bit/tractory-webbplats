@@ -1,7 +1,7 @@
 ---
 titel: "Om"
-sidtitel: "Om — Tractory"
-beskrivning: "Tractory AB drivs av Jonas Engkvist, yrkesverksam inom tjänstedesign och UX-design sedan 2007. Jonas har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik. Med över åtta års universitetsutbildning och en passion för digital etik ligger fokus på att skapa innovativa och användarcentrerade designlösningar."
+sidtitel: "Om Tractory och Jonas Engkvist — Tractory"
+beskrivning: "Tractory AB drivs av Jonas Engkvist, tjänstedesigner sedan 2007 med bakgrund i kognitionsvetenskap, psykologi och sociologi."
 delningsbild: "/bilder/20170831_portratt_ONE_DAY16793.webp"
 ---
 

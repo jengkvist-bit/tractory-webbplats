@@ -1,7 +1,7 @@
 ---
 titel: "Användningstester"
 sidtitel: "Användningstester — Tractory"
-beskrivning: "Få direkt feedback om hur väl produkten fungerar för användarna, samt identifiera det som förhindrar användarna från att slutföra viktiga handlingar (som köp eller registrering)."
+beskrivning: "Användningstester visar hur väl produkten fungerar och vad som hindrar användarna från viktiga handlingar, som köp eller registrering."
 delningsbild: "/bilder/Tractory-Some-15.webp"
 ---
 

@@ -1,7 +1,7 @@
 ---
 titel: "Den gyllene regeln för UX"
 datum: "2018-08-13"
-beskrivning: "Så länge det har funnits samhällen har vi försökt hitta smidigare sätt att interagera. Varje samhälle och kultur har sitt unika recept för social interaktion, men mycket förblir detsamma. Visst borde några av de mer robusta sociala koderna även kunna tillämpas på den digitala kulturen?"
+beskrivning: "Varje kultur har sina sociala koder för hur vi interagerar. Borde inte de mest robusta av dem gälla även i digitala tjänster?"
 utdrag: "Så länge det har funnits samhällen har vi försökt hitta smidigare sätt att interagera. Varje samhälle och kultur har sitt unika recept för social interaktion, men mycket förblir detsamma. Visst borde några av de mer robusta sociala koderna även kunna tillämpas på den digitala kulturen?"
 listbild: "/bilder/image-asset-6.webp"
 delningsbild: "/bilder/1718882201644.webp"

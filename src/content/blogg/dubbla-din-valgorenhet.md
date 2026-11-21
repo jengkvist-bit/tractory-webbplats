@@ -1,7 +1,7 @@
 ---
 titel: "Dubbla din välgörenhet"
 datum: "2018-10-24"
-beskrivning: "Att ge till välgörenhet är ett sätt att omsätta ord i handling. Men tänk om du kunde dubbla din donation genom att sponsra din gåva? Det är vad konceptet Good Match handlar om."
+beskrivning: "Tänk om du kunde dubbla din donation genom att sponsra din gåva? Det är vad konceptet Good Match handlar om."
 utdrag: "Att ge till välgörenhet är ett sätt att omsätta ord i handling. Men tänk om du kunde dubbla din donation genom att sponsra din gåva? Det är vad konceptet Good Match handlar om."
 listbild: "/bilder/image-asset-5.webp"
 delningsbild: "/bilder/1_2beqtJeQvdPl_eTLd5nFfw.gif"

@@ -1,7 +1,7 @@
 ---
 titel: "UX-testning av befintlig tjänst"
 sidtitel: "UX-testning — Tractory"
-beskrivning: "Vi testar och utvärderar användarupplevelsen (UX) av en befintlig digital eller fysisk tjänst genom användningstester. Detta kan inkludera att intervjua användare eller observera hur de interagerar med tjänsten för att identifiera hinder eller problem."
+beskrivning: "Vi utvärderar användarupplevelsen av en befintlig digital eller fysisk tjänst med användningstester, intervjuer och observationer."
 delningsbild: "/bilder/Tractory-Some-11.webp"
 ---
 

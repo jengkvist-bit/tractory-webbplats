@@ -1,7 +1,7 @@
 ---
 titel: "10 etiska principer för digitala tjänster"
 datum: "2020-06-05"
-beskrivning: "Digitaliseringen har sedan länge en stor inverkan på människors vardag och välbefinnande. Vi behöver enas om en värdegrund för den digitala samhällsutvecklingen. Om varje digital artefakt som designas eller omdesignas från och med nu bara skulle få dessa 10 användarhistorier godkända och genomförda, skulle det digitala bli en miljö där alla människor av alla slag kan frodas."
+beskrivning: "Tio användarhistorier som värdegrund för etisk digital design, så att den digitala miljön blir en plats där alla människor kan frodas."
 utdrag: "Digitaliseringen har sedan länge en stor inverkan på människors vardag och välbefinnande. Det är minst lika konkret som andra fysiska samhällsfenomen. Vi behöver enas om en värdegrund för den digitala samhällsutvecklingen. Om varje digital artefakt som designas eller omdesignas från och med nu bara skulle få dessa 10 användarhistorier godkända och genomförda, skulle det digitala bli en miljö där alla människor av alla slag kan frodas."
 listbild: "/bilder/image-asset-2.webp"
 delningsbild: "/bilder/1718883371903.webp"

@@ -1,7 +1,7 @@
 ---
 titel: "5 tips för bättre UX research"
 datum: "2021-08-11"
-beskrivning: "I takt med att UX-research accelererar kan det vara nyttigt att ta ett steg tillbaka och reflektera över de metoder vi använder. Det kommer aldrig att finnas en perfekt enighet kring forskningsmetodik. Vissa är starka anhängare av siffror och data, medan andra hyllar antropologiska insikter. Här är fem saker jag försöker tänka på när jag utför UX-forskning."
+beskrivning: "Det finns ingen perfekt forskningsmetod. Här är fem saker jag försöker tänka på när jag gör UX research."
 utdrag: "I takt med att UX-research accelererar kan det vara nyttigt att ta ett steg tillbaka och reflektera över de metoder vi använder. Det kommer aldrig att finnas en perfekt enighet kring forskningsmetodik. Vissa är starka anhängare av siffror och data, medan andra hyllar antropologiska insikter. Att hålla den diskussionen vid liv är förmodligen hälsosamt. Jag har arbetat med UX i cirka 15 år, och här är fem saker jag försöker tänka på när jag utför UX-forskning."
 listbild: "/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash.webp"
 delningsbild: "/bilder/jukan-tateisi-bJhT_8nbUA0-unsplash-2.webp"

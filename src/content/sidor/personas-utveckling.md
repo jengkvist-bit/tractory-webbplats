@@ -1,7 +1,7 @@
 ---
 titel: "Personasutveckling"
 sidtitel: "Personasutveckling — Tractory"
-beskrivning: "Vi samlar in och analyserar användardata för att skapa detaljerade personas som representerar olika användargrupper. Dessa personas kan hjälpa företaget att förstå sina användare bättre och anpassa sin design därefter."
+beskrivning: "Personas byggda på verklig användardata, som hjälper organisationen att förstå sina användargrupper och anpassa designen efter dem."
 delningsbild: "/bilder/Tractory-Some-16.webp"
 ---
 

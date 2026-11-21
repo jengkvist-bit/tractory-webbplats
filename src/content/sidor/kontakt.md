@@ -1,6 +1,6 @@
 ---
 titel: "Boka ett samtal"
-sidtitel: "Kontakt — Tractory"
+sidtitel: "Kontakt: boka ett samtal — Tractory"
 beskrivning: "Berätta kort om din situation så hittar vi en tid för ett samtal. Skicka ett mejl till jonas@tractory.se."
 delningsbild: "/bilder/Tractory-Some-4.webp"
 ---
