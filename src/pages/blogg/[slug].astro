@@ -1,4 +1,5 @@
 ---
+import { url } from '../../lib/url';
 // Mall för ett blogginlägg. Texten hämtas från src/content/blogg/<namn>.md
 import Bas from '../../layouts/Bas.astro';
 import { getCollection, render } from 'astro:content';
@@ -17,7 +18,7 @@ const datum = i.data.datum.toISOString().slice(0, 10);
       <p class="meta">Jonas Engkvist · <time datetime={datum}>{datum}</time></p>
       <h1>{i.data.titel}</h1>
       <Content />
-      <p><a class="knapp kontur" href="/blogg">← Alla inlägg</a></p>
+      <p><a class="knapp kontur" href={url("/blogg")}>← Alla inlägg</a></p>
     </div>
   </article>
 </Bas>

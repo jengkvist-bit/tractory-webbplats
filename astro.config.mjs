@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import rehypeBas from './src/lib/rehype-bas.mjs';
 
 // SITE = sajtens adress. BASE används bara när sajten testas på en underadress.
 export default defineConfig({
@@ -7,6 +8,7 @@ export default defineConfig({
   base: process.env.BASE || '/',
   trailingSlash: 'ignore',
   integrations: [sitemap()],
+  markdown: { rehypePlugins: [rehypeBas] },
   // Gamla adresser som ska leda vidare
   redirects: { '/home': '/' },
 });

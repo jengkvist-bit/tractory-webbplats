@@ -1,4 +1,5 @@
 ---
+import { url } from '../../lib/url';
 // Bloggens översiktssida – listar alla inlägg, nyast först
 import Bas from '../../layouts/Bas.astro';
 import { getCollection } from 'astro:content';
@@ -11,12 +12,12 @@ const datum = (d: Date) => d.toISOString().slice(0, 10);
     <ul class="blogglista">
       {inlagg.map((i) => (
         <li class="inlagg-kort">
-          {i.data.listbild && <a href={`/blogg/${i.id}`} tabindex="-1" aria-hidden="true"><img src={i.data.listbild} alt="" loading="lazy" /></a>}
+          {i.data.listbild && <a href={url(`/blogg/${i.id}`)} tabindex="-1" aria-hidden="true"><img src={url(i.data.listbild)} alt="" loading="lazy" /></a>}
           <div>
             <p class="meta">Jonas Engkvist · <time datetime={datum(i.data.datum)}>{datum(i.data.datum)}</time></p>
-            <h2><a href={`/blogg/${i.id}`}>{i.data.titel}</a></h2>
+            <h2><a href={url(`/blogg/${i.id}`)}>{i.data.titel}</a></h2>
             <p>{i.data.utdrag || i.data.beskrivning}</p>
-            <a class="knapp kontur" href={`/blogg/${i.id}`}>Läs mer</a>
+            <a class="knapp kontur" href={url(`/blogg/${i.id}`)}>Läs mer</a>
           </div>
         </li>
       ))}
