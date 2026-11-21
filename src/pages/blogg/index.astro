@@ -3,6 +3,7 @@ import { url } from '../../lib/url';
 // Bloggens översiktssida – listar alla inlägg, nyast först
 import Bas from '../../layouts/Bas.astro';
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 const inlagg = (await getCollection('blogg')).sort((a, b) => b.data.datum.valueOf() - a.data.datum.valueOf());
 const datum = (d: Date) => d.toISOString().slice(0, 10);
 ---
@@ -10,9 +11,9 @@ const datum = (d: Date) => d.toISOString().slice(0, 10);
   <section class="innehall">
     <h1>Blogg</h1>
     <ul class="blogglista">
-      {inlagg.map((i) => (
+      {inlagg.map((i, nr) => (
         <li class="inlagg-kort">
-          {i.data.listbild && <a href={url(`/blogg/${i.id}`)} tabindex="-1" aria-hidden="true"><img src={url(i.data.listbild)} alt="" loading="lazy" /></a>}
+          {i.data.listbild && <a href={url(`/blogg/${i.id}`)} tabindex="-1" aria-hidden="true"><Image src={i.data.listbild} alt="" widths={[400, 700, 900]} sizes="(min-width: 1200px) 426px, (min-width: 721px) 35vw, 92vw" loading={nr < 2 ? "eager" : "lazy"} /></a>}
           <div>
             <p class="meta">Jonas Engkvist · <time datetime={datum(i.data.datum)}>{datum(i.data.datum)}</time></p>
             <h2><a href={url(`/blogg/${i.id}`)}>{i.data.titel}</a></h2>

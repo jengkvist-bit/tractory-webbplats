@@ -3,11 +3,11 @@ titel: "Dubbla din välgörenhet"
 datum: "2018-10-24"
 beskrivning: "Tänk om du kunde dubbla din donation genom att sponsra din gåva? Det är vad konceptet Good Match handlar om."
 utdrag: "Att ge till välgörenhet är ett sätt att omsätta ord i handling. Men tänk om du kunde dubbla din donation genom att sponsra din gåva? Det är vad konceptet Good Match handlar om."
-listbild: "/bilder/image-asset-5.webp"
+listbild: "../../assets/bilder/image-asset-5.webp"
 delningsbild: "/bilder/1_2beqtJeQvdPl_eTLd5nFfw.gif"
 ---
 
-![](/bilder/1_2beqtJeQvdPl_eTLd5nFfw-2.gif)
+![Animerad skiss av appen Goodmatch i en mobil, med sökfält och kategorier som Children och Poverty](../../assets/bilder/1_2beqtJeQvdPl_eTLd5nFfw-2.gif)
 
 I min artikel "Good Match: Double Up on Charity" diskuterar jag hur man kan maximera effekten av välgörenhetsdonationer genom matchningsprogram. Matchningsprogram, där donationer från individer matchas av företag eller andra givare, kan inte bara fördubbla de ekonomiska resurserna som går till välgörenhet utan också inspirera fler att bidra. Genom att utnyttja dessa program strategiskt kan insamlingskampanjer nå större framgångar och engagera både individuella givare och företag på ett djupare plan.
 

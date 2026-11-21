@@ -5,7 +5,7 @@ beskrivning: "Tractory AB drivs av Jonas Engkvist, tjänstedesigner sedan 2007 m
 delningsbild: "/bilder/20170831_portratt_ONE_DAY16793.webp"
 ---
 
-![Jonas Engkvist](/bilder/20170831_portratt_ONE_DAY16793-2.webp)
+![Jonas Engkvist](../../assets/bilder/20170831_portratt_ONE_DAY16793-2.webp)
 
 **Tractory AB drivs av Jonas Engkvist, tjänstedesigner i Stockholm.** Jag har arbetat med tjänstedesign och UX sedan 2007 och hjälper företag och offentlig sektor att förstå och förbättra sina tjänster, utifrån hur människor faktiskt använder dem.
 

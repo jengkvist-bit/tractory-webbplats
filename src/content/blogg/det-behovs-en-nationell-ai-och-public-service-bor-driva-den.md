@@ -3,11 +3,11 @@ titel: "Det behövs en nationell AI – och public service bör driva den"
 datum: "2025-04-19"
 beskrivning: "Sverige behöver en nationell språkmodell för AI, och public service bör ta täten. Ett demokratiskt alternativ till kommersiell AI."
 utdrag: "I en tid där generativ AI snabbt omformar vårt informationslandskap behöver Sverige en nationell språkmodell – en “GPT för folket”. Kanske bör public service ta ledningen i detta initiativ för att säkerställa att teknologin utvecklas med fokus på demokratiska värden, objektivitet och medborgarnas bästa? Genom att lära av historien, där nya medier ofta kommersialiserats och därmed förlorat sitt samhällsnyttiga syfte, kan vi inse vikten av att agera proaktivt för att bevara ett inkluderande och transparent informationssamhälle."
-listbild: "/bilder/anders-noren-I3DiuTjhNvA-unsplash.webp"
+listbild: "../../assets/bilder/anders-noren-I3DiuTjhNvA-unsplash.webp"
 delningsbild: "/bilder/anders-noren-I3DiuTjhNvA-unsplash-2.webp"
 ---
 
-![](/bilder/svenska-fjll-och-AI.webp)
+![En stig slingrar sig genom ett grönt och rödbrunt fjällandskap under en molnig himmel](../../assets/bilder/svenska-fjll-och-AI.webp)
 
 _Foto: [Anders Norén](https://unsplash.com/@andersnoren?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) från [Unsplash](https://unsplash.com/photos/a-dirt-path-in-a-grassy-field-with-mountains-in-the-background-I3DiuTjhNvA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 

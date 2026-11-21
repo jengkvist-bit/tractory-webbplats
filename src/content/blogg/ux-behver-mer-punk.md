@@ -3,11 +3,11 @@ titel: "UX behöver mer punk!"
 datum: "2024-09-23"
 beskrivning: "Har vi i jakten på polerade gränssnitt tappat förmågan att skapa upplevelser som berör? Här är spellistan för ditt nästa designprojekt."
 utdrag: "Polerade gränssnitt och sömlösa upplevelser börjar bli en allt större del av det digitala landskapet. UX-design har på många sätt blivit för trygg. Vi värdesätter konsekvens, tillgänglighet och användarvänlighet – värden som är avgörande för att skapa bra produkter. Men är “bra” tillräckligt? Har vi, i jakten på perfektion, tappat förmågan att skapa digitala upplevelser som berör själen? Behöver kanske UX bli lite mer punk? Här är spellistan för ditt nästa designprojekt."
-listbild: "/bilder/2048px-Punks-in-love.webp"
+listbild: "../../assets/bilder/2048px-Punks-in-love.webp"
 delningsbild: "/bilder/2048px-Punks-in-love-2.webp"
 ---
 
-![](/bilder/ux-loves-punk.webp)
+![Två punkare med tuppkam och nitjackor ligger och kysser varandra i gräset](../../assets/bilder/ux-loves-punk.webp)
 
 _UX älskar punk. Rättigheter: Patrick, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons_
 
@@ -21,7 +21,7 @@ Platt design, minimalistisk estetik och förutsägbara flöden kan vara effektiv
 
 ## Vad kan punk tillföra UX?
 
-![](/bilder/1_260940195c99f383a4c3d.webp)
+![Sex Pistols omslag till God Save the Queen: drottningens porträtt mot en brittisk flagga](../../assets/bilder/1_260940195c99f383a4c3d.webp)
 
 _Sex Pistols vägrade 70-talets konformitet. Rättigheter: [Westfalen digital museum](https://westfalen.museum-digital.de/singleimage?imagenr=8767)._
 
@@ -53,7 +53,7 @@ Och sedan finns det anti-design, där designers medvetet bryter mot de konventio
 
 ## Den etiska punkaren: en meningsfull protest
 
-![](/bilder/graffiti-on-the-west-side-of-the-berlin-wall-expresses-the-d.webp)
+![Graffiti på Berlinmuren: Tear down the wall and all the others will fall](../../assets/bilder/graffiti-on-the-west-side-of-the-berlin-wall-expresses-the-d.webp)
 
 _Berlinmuren 1989. Rättigheter: [SSGT F. Lee Cockran, The U.S. National Archives](https://nara.getarchive.net/media/graffiti-on-the-west-side-of-the-berlin-wall-expresses-the-desire-for-a-unified-f91dd4)._
 
@@ -63,7 +63,7 @@ När vi [river alla murar](https://music.youtube.com/watch?v=VNYpqODTB60&si=Ko1z
 
 ## Dags att utmana det som blivit självklart
 
-![](/bilder/2048px-Baseball_with_a_bottle_at_Blackpool_Winter_Gardens.webp)
+![Punkare samlade på en gata utanför Winter Gardens i Blackpool, en av dem slår mot en flaska med ett basebollträ](../../assets/bilder/2048px-Baseball_with_a_bottle_at_Blackpool_Winter_Gardens.webp)
 
 _Rättigheter: Stephen Gidley, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons_
 

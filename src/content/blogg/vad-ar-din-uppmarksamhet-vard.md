@@ -3,11 +3,11 @@ titel: "Vad är din uppmärksamhet värd?"
 datum: "2018-01-15"
 beskrivning: "Företag tävlar om din uppmärksamhet med psykologiska strategier. Om vad det kostar oss, och hur vi kan ta tillbaka kontrollen."
 utdrag: "Genom ökad medvetenhet om hur vår uppmärksamhet utnyttjas kan vi utveckla strategier för att skydda oss mot överdriven distraktion. Det kan vara värdefullt att reflektera över det egna medieanvändandet och ta kontroll över sin uppmärksamhet i en tid där den ständigt eftertraktas."
-listbild: "/bilder/image-asset-7.webp"
+listbild: "../../assets/bilder/image-asset-7.webp"
 delningsbild: "/bilder/1718872159392.webp"
 ---
 
-![](/bilder/image-asset-13.webp)
+![En påfågel som slår ut sina fjädrar](../../assets/bilder/image-asset-13.webp)
 
 I min artikel "What is Your Attention Worth?" undersöker jag hur vår uppmärksamhet har blivit en värdefull resurs i den digitala ekonomin. Företag investerar stora summor för att fånga och behålla vår uppmärksamhet genom olika strategier, ofta baserade på psykologiska insikter. Denna konkurrens har ekonomiska incitament, där användarnas uppmärksamhet översätts till intäkter via reklam och andra metoder.
 

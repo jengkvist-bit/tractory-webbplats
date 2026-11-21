@@ -3,11 +3,11 @@ titel: "Varför finns det inte fler UX-sociologer?"
 datum: "2024-08-21"
 beskrivning: "Design fokuserar ofta på psykologi och individen. Om varför sociologi ger en bredare förståelse av digitala tjänster och samhället."
 utdrag: "I dagens digitala värld är psykologi ofta i fokus när vi designar användarupplevelser och tjänster. Men vad händer när vi bara ser till individen och missar den större sociala kontexten? Den här artikeln utforskar varför sociologi, med sitt både mikro- och makroperspektiv, kan ge oss en bredare och mer holistisk förståelse av hur digitala tjänster och produkter interagerar med sina användare och det samhälle de lever i."
-listbild: "/bilder/unsplash-image--5rA4DRrEXU.webp"
+listbild: "../../assets/bilder/unsplash-image--5rA4DRrEXU.webp"
 delningsbild: "/bilder/unsplash-image--5rA4DRrEXU-2.webp"
 ---
 
-![](/bilder/unsplash-image--5rA4DRrEXU-3.webp)
+![En publik med uppsträckta händer i rött ljus på en konsert](../../assets/bilder/unsplash-image--5rA4DRrEXU-3.webp)
 
 ## Vi kan bredda perspektivet på digital design
 

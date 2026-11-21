@@ -4,12 +4,12 @@ import { glob } from 'astro/loaders';
 // Blogginlägg: en .md-fil per inlägg i src/content/blogg
 const blogg = defineCollection({
   loader: glob({ pattern: '*.md', base: './src/content/blogg' }),
-  schema: z.object({
+  schema: ({ image }) => z.object({
     titel: z.string(),
     datum: z.coerce.date(),
     beskrivning: z.string().optional(),
     utdrag: z.string().optional(),
-    listbild: z.string().optional(),
+    listbild: image().optional(),
     delningsbild: z.string().optional(),
   }),
 });
