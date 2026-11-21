@@ -10,8 +10,6 @@ delningsbild: "/bilder/Tractory-Some-4.webp"
 
 <p class="ingress">Berätta kort om din situation så hittar vi en tid för ett samtal. Du får en känsla för om Tractory känns rätt, och jag får en känsla för om jag kan bidra.</p>
 
-<p class="adress">jonas@tractory.se</p>
-
 <a class="knapp" href="mailto:jonas@tractory.se?subject=F%C3%B6rfr%C3%A5gan%20via%20tractory.se&body=Hej%20Jonas%21%0A%0AOrganisation%3A%0AVad%20vill%20ni%20uppn%C3%A5%3F%0AUngef%C3%A4r%20n%C3%A4r%20vill%20ni%20komma%20ig%C3%A5ng%3F%0ATelefonnummer%2C%20om%20du%20hellre%20vill%20bli%20uppringd%3A%0A%0A">Skicka ett mejl</a>
 <button type="button" class="knapp kontur kopiera" data-kopiera="jonas@tractory.se">Kopiera adressen</button>
 
@@ -34,15 +32,25 @@ delningsbild: "/bilder/Tractory-Some-4.webp"
 </div>
 </div>
 
+<p class="kopiera-status" role="status" aria-live="polite"></p>
+
 <script>
   // Knappen "Kopiera adressen": lägger mejladressen i urklipp och visar en kort bekräftelse.
+  // Om kopieringen inte går visas adressen i stället, så att man kan skriva av den.
   document.querySelectorAll('.kopiera').forEach((knapp) => {
+    const adress = knapp.dataset.kopiera;
+    const status = document.querySelector('.kopiera-status');
     knapp.addEventListener('click', async () => {
       try {
-        await navigator.clipboard.writeText(knapp.dataset.kopiera);
+        await navigator.clipboard.writeText(adress);
         knapp.textContent = 'Kopierad!';
-        setTimeout(() => (knapp.textContent = 'Kopiera adressen'), 2000);
-      } catch {}
+        if (status) status.textContent = adress + ' är kopierad.';
+      } catch {
+        knapp.textContent = adress;
+        if (status) status.textContent = 'Adressen är ' + adress;
+        return;
+      }
+      setTimeout(() => (knapp.textContent = 'Kopiera adressen'), 2500);
     });
   });
 </script>
