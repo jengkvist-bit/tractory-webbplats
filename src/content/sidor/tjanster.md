@@ -5,7 +5,7 @@ beskrivning: "Tractory erbjuder tjänstedesign, UX research och UX-design i Stoc
 delningsbild: "/bilder/Tractory-Some-3.webp"
 ---
 
-Tractory erbjuder tjänstedesign, UX-design och UX research. Med vetenskaplig grund och lång erfarenhet skapas digitala upplevelser som användarna gillar och som gör nytta.
+Tractory erbjuder tjänstedesign, UX-design och UX research. Med vetenskaplig grund och lång erfarenhet skapas tjänster och upplevelser som användarna gillar och som gör nytta.
 
 ## Tjänstedesign
 

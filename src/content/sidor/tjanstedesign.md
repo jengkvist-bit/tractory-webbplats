@@ -1,7 +1,7 @@
 ---
 titel: "Tjänstedesign"
 sidtitel: "Tjänstedesign i Stockholm — Tractory"
-beskrivning: "Tjänstedesign som ser hela kundresan. Nöjdare kunder, färre misstag och lägre kostnader för organisationer i Stockholm."
+beskrivning: "Tjänstedesign som ser hela kundresan. Nöjdare kunder, färre misstag och lägre kostnader för företag och offentlig sektor i Stockholm."
 delningsbild: "/bilder/Tractory-Some-5.webp"
 ---
 

@@ -1,6 +1,6 @@
 # Tractory
 
-> Tractory AB är en konsultfirma i Stockholm inom tjänstedesign (service design), med UX research och UX-design som komplement. Firman drivs av Jonas Engkvist, som arbetat med tjänstedesign och UX sedan 2007 och har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik. Tractory arbetar med organisationer som vill förbättra sina tjänster utifrån verkliga användarbehov, med fokus på etik och evidens.
+> Tractory AB är en konsultfirma i Stockholm inom tjänstedesign (service design), med UX research och UX-design som komplement. Firman drivs av Jonas Engkvist, som arbetat med tjänstedesign och UX sedan 2007 och har en akademisk bakgrund inom kognitionsvetenskap, psykologi, sociologi och pedagogik. Tractory arbetar med företag och offentlig sektor som vill förbättra sina tjänster utifrån verkliga användarbehov, med fokus på etik och evidens.
 
 Jonas Engkvist är initiativtagare till Digital Design Ethics (https://www.digitaldesignethics.com/), tio principer för etisk digital design. Sajten är på svenska.
 
