@@ -34,23 +34,4 @@ delningsbild: "/bilder/Tractory-Some-4.webp"
 
 <p class="kopiera-status" role="status" aria-live="polite"></p>
 
-<script>
-  // Knappen "Kopiera adressen": lägger mejladressen i urklipp och visar en kort bekräftelse.
-  // Om kopieringen inte går visas adressen i stället, så att man kan skriva av den.
-  document.querySelectorAll('.kopiera').forEach((knapp) => {
-    const adress = knapp.dataset.kopiera;
-    const status = document.querySelector('.kopiera-status');
-    knapp.addEventListener('click', async () => {
-      try {
-        await navigator.clipboard.writeText(adress);
-        knapp.textContent = 'Kopierad!';
-        if (status) status.textContent = adress + ' är kopierad.';
-      } catch {
-        knapp.textContent = adress;
-        if (status) status.textContent = 'Adressen är ' + adress;
-        return;
-      }
-      setTimeout(() => (knapp.textContent = 'Kopiera adressen'), 2500);
-    });
-  });
-</script>
+<script src="/js/kopiera.js" defer></script>

@@ -22,12 +22,32 @@ const goatcounter = 'tractory';
 // Räkna bara besök på den riktiga sajten, inte på testadressen.
 const räknaBesök = Astro.site?.hostname === 'www.tractory.se';
 const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + '/');
+// Säkerhetsregel (Content Security Policy): webbläsaren får bara köra kod och visa filer från sajten själv.
+// Enda undantaget är att besöksräkningen får skicka en signal till GoatCounter.
+// Om något slutar fungera efter att du lagt till en tjänst från en annan sajt (t.ex. en inbäddad video) är det den här raden som behöver ändras.
+const räknare = `https://${goatcounter}.goatcounter.com`;
+const säkerhetsregel = [
+  "default-src 'self'",
+  "script-src 'self'",
+  "style-src 'self'",
+  `img-src 'self' data: ${räknare}`,
+  "font-src 'self'",
+  `connect-src 'self' ${räknare}`,
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self'",
+  'upgrade-insecure-requests',
+].join('; ');
+// Strukturerad data läggs i <script>-taggar. "<" skrivs om så att text i den aldrig kan avsluta taggen i förtid.
+const somJson = (s: object) => JSON.stringify(s).replace(/</g, '\\u003c');
 ---
 <!doctype html>
 <html lang="sv">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content={säkerhetsregel} />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
   <title>{titel}</title>
   <meta name="description" content={beskrivning} />
   <meta property="og:title" content={titel} />
@@ -37,9 +57,9 @@ const aktiv = (href: string) => sökväg === href || sökväg.startsWith(href + 
   <meta name="google-site-verification" content="CEOBSqHg8uPvgsAeRM25r62H6VNamVnLk6cs5tBOjak" />
   <link rel="icon" href={base + '/bilder/favicon.webp'} />
   <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-  {[webbplats, ...schema].map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+  {[webbplats, ...schema].map((s) => <script type="application/ld+json" set:html={somJson(s)} />)}
   {räknaBesök && (
-    <script is:inline async data-goatcounter={`https://${goatcounter}.goatcounter.com/count`} src="https://gc.zgo.at/count.js"></script>
+    <script is:inline async data-goatcounter={`${räknare}/count`} src={base + '/js/goatcounter.js'}></script>
   )}
 </head>
 <body>
