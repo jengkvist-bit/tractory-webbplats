@@ -50,3 +50,10 @@ Innehållet flyttades från Squarespace i november 2026 med `verktyg/importera.p
 Sajten sätter inga cookies och laddar inget från andra sajter (typsnittet Poppins ligger i sajten själv). Därför behövs ingen cookie-banner.
 
 Besök räknas med [GoatCounter](https://www.goatcounter.com), som inte använder cookies och inte sparar personuppgifter. Statistiken finns på https://tractory.goatcounter.com. Inställningen ligger överst i `src/layouts/Bas.astro`, och besök räknas bara på www.tractory.se.
+
+## Säkerhet
+
+- **Säkerhetsregel (CSP):** överst i `src/layouts/Bas.astro`. Den säger åt webbläsaren att bara köra kod och visa filer från sajten själv, plus skicka besöksräkningen till GoatCounter. Om du lägger till något från en annan sajt (till exempel en inbäddad YouTube-video eller ett formulär) behöver regeln utökas, annars visas det inte. Be Claude om hjälp.
+- **Ingen kod direkt i sidorna:** skript ligger som filer i `public/js/`. Skriv inte `<script>…</script>` med kod i Markdown-filerna, eftersom säkerhetsregeln stoppar det.
+- **GoatCounters skript** ligger som en kopia i `public/js/goatcounter.js` i stället för att hämtas från GoatCounter vid varje besök. Det behöver sällan uppdateras.
+- **Dependabot** (`.github/dependabot.yml`) föreslår uppdateringar en gång i veckan. Godkänn dem när bygget är grönt, eller be Claude titta på dem.

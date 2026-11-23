@@ -1,0 +1,20 @@
+# Dependabot håller koden som sajten bygger på uppdaterad.
+# En gång i veckan kollar den om det finns nya versioner, särskilt säkerhetsfixar,
+# och föreslår då en ändring (pull request) som du kan godkänna eller be Claude titta på.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+    # Samla småuppdateringar i en enda pull request i stället för många.
+    groups:
+      beroenden:
+        update-types: [minor, patch]
+    open-pull-requests-limit: 5
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
